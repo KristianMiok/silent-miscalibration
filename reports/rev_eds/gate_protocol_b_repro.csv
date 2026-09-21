@@ -1,0 +1,9 @@
+entity,track,level,algorithm,n_saved,n_new,n_common,max_abs_diff,mean_abs_diff,cell_fit_seconds,pass,upstream
+Astacus astacus,combined,0,glm,14562,14562,14562,0.0,0.0,2.4,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,0,gam,14562,14562,14562,0.0,0.0,2.4,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,0,random_forest,14562,14562,14562,0.0,0.0,2.4,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,0,xgboost,14562,14562,14562,0.0,0.0,2.4,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,10,glm,14562,14562,14562,0.0,0.0,2.3,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,10,gam,14562,14562,14562,0.0,0.0,2.3,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,10,random_forest,14562,14562,14562,2.220446049250313e-16,1.5020689677648373e-18,2.3,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
+Astacus astacus,combined,10,xgboost,14562,14562,14562,0.0,0.0,2.3,True,"8bbfb1d (HEAD, tag: v1.0, origin/main, origin/HEAD, main)"
