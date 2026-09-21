@@ -1,0 +1,10 @@
+track,level,contaminated,null,excess
+combined,3,0.29605,0.08779,0.20826
+combined,10,0.35311,0.07455,0.27856
+combined,20,0.41561,0.14522,0.27038
+local_only,3,0.31546,0.09774,0.21773
+local_only,10,0.38597,0.1154,0.27056
+local_only,20,0.4347,0.14073,0.29397
+upstream_only,3,0.15054,0.01616,0.13438
+upstream_only,10,0.24177,0.07192,0.16985
+upstream_only,20,0.29192,0.1651,0.12681

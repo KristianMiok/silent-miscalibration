@@ -1,0 +1,1399 @@
+binning,bin,frac_over,mean_diff,n,entity,entity_dir,track,level,source
+benchmark,0,0.74653,0.0015,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+benchmark,1,0.64343,0.00125,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+benchmark,2,0.65099,0.00224,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+benchmark,3,0.60997,0.00491,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+benchmark,4,0.56484,0.00481,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+bland_altman,0,0.73141,0.00128,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+bland_altman,1,0.64653,0.00117,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+bland_altman,2,0.65161,0.00212,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+bland_altman,3,0.60634,0.00422,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+bland_altman,4,0.57986,0.00593,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,contaminated
+benchmark,0,0.51388,0.00011,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+benchmark,1,0.47705,-0.00016,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+benchmark,2,0.46535,-0.00058,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+benchmark,3,0.44608,-0.00111,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+benchmark,4,0.45857,-0.00195,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+bland_altman,0,0.49845,-2e-05,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+bland_altman,1,0.48161,-0.0002,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+bland_altman,2,0.46483,-0.00077,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+bland_altman,3,0.44535,-0.00137,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+bland_altman,4,0.47069,-0.00133,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3,null
+benchmark,0,0.78662,0.00263,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+benchmark,1,0.65006,0.00228,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+benchmark,2,0.68062,0.00478,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+benchmark,3,0.63866,0.01291,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+benchmark,4,0.62513,0.01519,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+bland_altman,0,0.76663,0.00206,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+bland_altman,1,0.65285,0.00215,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+bland_altman,2,0.67937,0.00421,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+bland_altman,3,0.63048,0.01065,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+bland_altman,4,0.65175,0.01872,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,contaminated
+benchmark,0,0.55221,0.00019,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+benchmark,1,0.47716,-0.00041,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+benchmark,2,0.37097,-0.00205,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+benchmark,3,0.35792,-0.0041,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+benchmark,4,0.39486,-0.00536,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+bland_altman,0,0.53491,5e-05,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+bland_altman,1,0.48151,-0.00049,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+bland_altman,2,0.3717,-0.0023,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+bland_altman,3,0.35699,-0.00438,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+bland_altman,4,0.40802,-0.00461,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10,null
+benchmark,0,0.79076,0.00393,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+benchmark,1,0.63545,0.00366,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+benchmark,2,0.67616,0.00825,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+benchmark,3,0.63659,0.02205,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+benchmark,4,0.66439,0.02827,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+bland_altman,0,0.76207,0.00286,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+bland_altman,1,0.6398,0.00331,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+bland_altman,2,0.67616,0.00723,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+bland_altman,3,0.62571,0.01733,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+bland_altman,4,0.69961,0.03543,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,contaminated
+benchmark,0,0.45546,-0.00015,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+benchmark,1,0.4409,-0.00078,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+benchmark,2,0.30011,-0.00379,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+benchmark,3,0.29152,-0.00679,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+benchmark,4,0.33406,-0.00967,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+bland_altman,0,0.43702,-0.00032,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+bland_altman,1,0.44566,-0.0009,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+bland_altman,2,0.30125,-0.00407,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+bland_altman,3,0.2911,-0.00706,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+bland_altman,4,0.34701,-0.00883,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20,null
+benchmark,0,0.74508,0.00138,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+benchmark,1,0.6599,0.00277,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+benchmark,2,0.83715,0.00199,26361,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+benchmark,3,0.50366,0.00129,2599,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+bland_altman,0,0.737,0.00122,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+bland_altman,1,0.65845,0.00255,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+bland_altman,2,0.55889,0.00304,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+bland_altman,3,1.0,0.00126,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+bland_altman,4,0.87228,0.00187,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,contaminated
+benchmark,0,0.4306,-0.00019,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+benchmark,1,0.46638,-0.00019,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+benchmark,2,0.80945,-0.0002,26361,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+benchmark,3,0.46402,-0.00155,2599,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+bland_altman,0,0.42335,-0.00026,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+bland_altman,1,0.46607,-0.00032,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+bland_altman,2,0.48172,-0.00091,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+bland_altman,3,1.0,0.00011,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+bland_altman,4,0.8612,4e-05,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3,null
+benchmark,0,0.84348,0.00281,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+benchmark,1,0.71397,0.00585,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+benchmark,2,0.84033,0.00554,26361,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+benchmark,3,0.50827,0.00319,2599,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+bland_altman,0,0.8323,0.00248,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+bland_altman,1,0.71056,0.00477,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+bland_altman,2,0.56956,0.00707,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+bland_altman,3,1.0,0.00453,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+bland_altman,4,0.87663,0.00579,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,contaminated
+benchmark,0,0.39828,-0.00058,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+benchmark,1,0.47985,-0.00098,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+benchmark,2,0.15842,-0.00133,26361,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+benchmark,3,0.38284,-0.0061,2599,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+bland_altman,0,0.38761,-0.00074,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+bland_altman,1,0.4812,-0.00115,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+bland_altman,2,0.43676,-0.00311,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+bland_altman,3,0.0,-0.00045,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+bland_altman,4,0.10825,-0.0014,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10,null
+benchmark,0,0.94334,0.00736,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+benchmark,1,0.79105,0.01316,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+benchmark,2,0.83741,0.00954,26361,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+benchmark,3,0.52559,0.00644,2599,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+bland_altman,0,0.93184,0.00666,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+bland_altman,1,0.78173,0.01011,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+bland_altman,2,0.56583,0.01188,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+bland_altman,3,1.0,0.00862,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+bland_altman,4,0.88326,0.01103,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,contaminated
+benchmark,0,0.48301,-0.00057,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+benchmark,1,0.45105,-0.00223,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+benchmark,2,0.12048,-0.00272,26361,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+benchmark,3,0.2955,-0.01284,2599,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+bland_altman,0,0.46799,-0.00083,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+bland_altman,1,0.45551,-0.00244,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+bland_altman,2,0.33534,-0.00772,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+bland_altman,3,0.00021,-8e-05,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+bland_altman,4,0.08359,-0.00262,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20,null
+benchmark,0,0.79439,0.00196,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+benchmark,1,0.76992,0.00293,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+benchmark,2,0.69398,0.00349,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+benchmark,3,0.59184,0.00373,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+benchmark,4,0.53905,0.00347,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+bland_altman,0,0.78496,0.00176,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+bland_altman,1,0.76847,0.00271,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+bland_altman,2,0.69212,0.00313,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+bland_altman,3,0.58655,0.00343,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+bland_altman,4,0.55707,0.00456,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,contaminated
+benchmark,0,0.60576,0.00048,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+benchmark,1,0.58863,0.00056,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+benchmark,2,0.53258,0.00029,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+benchmark,3,0.4784,-0.00046,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+benchmark,4,0.44148,-0.00266,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+bland_altman,0,0.59623,0.00037,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+bland_altman,1,0.58604,0.00045,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+bland_altman,2,0.53165,0.00013,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+bland_altman,3,0.47643,-0.00075,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+bland_altman,4,0.45649,-0.00197,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3,null
+benchmark,0,0.85187,0.00412,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+benchmark,1,0.85424,0.00728,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+benchmark,2,0.79923,0.00968,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+benchmark,3,0.66332,0.01074,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+benchmark,4,0.59188,0.01057,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+bland_altman,0,0.84007,0.00366,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+bland_altman,1,0.85269,0.00661,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+bland_altman,2,0.79478,0.00866,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+bland_altman,3,0.65617,0.01008,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+bland_altman,4,0.61684,0.01337,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,contaminated
+benchmark,0,0.4365,-0.00043,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+benchmark,1,0.46877,-0.00064,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+benchmark,2,0.42992,-0.00144,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+benchmark,3,0.39418,-0.00301,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+benchmark,4,0.38057,-0.0063,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+bland_altman,0,0.42449,-0.0006,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+bland_altman,1,0.46628,-0.00078,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+bland_altman,2,0.42868,-0.00164,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+bland_altman,3,0.39356,-0.00337,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+bland_altman,4,0.39693,-0.00544,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10,null
+benchmark,0,0.95359,0.01001,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+benchmark,1,0.9365,0.01497,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+benchmark,2,0.86605,0.01803,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+benchmark,3,0.67948,0.01858,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+benchmark,4,0.60224,0.01989,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+bland_altman,0,0.94748,0.00917,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+bland_altman,1,0.93225,0.0134,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+bland_altman,2,0.85321,0.01577,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+bland_altman,3,0.66384,0.01669,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+bland_altman,4,0.64108,0.02645,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,contaminated
+benchmark,0,0.45712,-0.00078,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+benchmark,1,0.46421,-0.00129,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+benchmark,2,0.39791,-0.00269,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+benchmark,3,0.32353,-0.00579,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+benchmark,4,0.31313,-0.01046,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+bland_altman,0,0.44282,-0.00099,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+bland_altman,1,0.46276,-0.00147,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+bland_altman,2,0.40029,-0.00287,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+bland_altman,3,0.32104,-0.00625,9653,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+bland_altman,4,0.32898,-0.00943,9654,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20,null
+benchmark,0,0.96636,0.00831,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+benchmark,1,0.92243,0.01406,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+benchmark,2,0.6384,0.01463,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+benchmark,3,0.57316,0.01208,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+benchmark,4,0.49226,0.00344,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+bland_altman,0,0.95928,0.00606,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+bland_altman,1,0.90681,0.01146,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+bland_altman,2,0.6356,0.01641,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+bland_altman,3,0.56956,0.01095,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+bland_altman,4,0.52136,0.00764,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,contaminated
+benchmark,0,0.56582,0.00019,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+benchmark,1,0.53551,0.0005,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+benchmark,2,0.49419,0.00063,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+benchmark,3,0.47503,-0.00045,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+benchmark,4,0.43725,-0.00338,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+bland_altman,0,0.55461,0.00011,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+bland_altman,1,0.53832,0.00047,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+bland_altman,2,0.49312,0.0005,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+bland_altman,3,0.46742,-0.00116,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+bland_altman,4,0.45434,-0.00242,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3,null
+benchmark,0,0.97543,0.02658,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+benchmark,1,0.94526,0.0417,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+benchmark,2,0.6567,0.03983,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+benchmark,3,0.53551,0.02975,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+benchmark,4,0.453,0.00483,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+bland_altman,0,0.95794,0.01779,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+bland_altman,1,0.91482,0.02326,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+bland_altman,2,0.63093,0.04829,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+bland_altman,3,0.55487,0.03458,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+bland_altman,4,0.50734,0.01877,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,contaminated
+benchmark,0,0.44085,-0.00037,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+benchmark,1,0.37877,-0.00085,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+benchmark,2,0.37468,-0.00176,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+benchmark,3,0.4024,-0.00284,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+benchmark,4,0.40214,-0.00634,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+bland_altman,0,0.42684,-0.0005,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+bland_altman,1,0.38411,-0.00088,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+bland_altman,2,0.37121,-0.00193,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+bland_altman,3,0.39733,-0.00357,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+bland_altman,4,0.41936,-0.00527,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10,null
+benchmark,0,0.98211,0.04285,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+benchmark,1,0.95714,0.06541,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+benchmark,2,0.67873,0.06401,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+benchmark,3,0.5231,0.04528,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+benchmark,4,0.43057,0.0034,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+bland_altman,0,0.96275,0.02813,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+bland_altman,1,0.91842,0.03562,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+bland_altman,2,0.61877,0.06277,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+bland_altman,3,0.55434,0.06018,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+bland_altman,4,0.51736,0.03423,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,contaminated
+benchmark,0,0.47864,-0.00011,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+benchmark,1,0.46368,-0.00044,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+benchmark,2,0.37815,-0.00202,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+benchmark,3,0.36996,-0.00525,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+benchmark,4,0.33752,-0.01084,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+bland_altman,0,0.46368,-0.00026,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+bland_altman,1,0.46943,-0.00049,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+bland_altman,2,0.37388,-0.00226,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+bland_altman,3,0.36409,-0.00626,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+bland_altman,4,0.35688,-0.00939,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20,null
+benchmark,0,0.55888,0.0008,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+benchmark,1,0.57971,0.00364,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+benchmark,2,0.88161,0.01026,17713,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+benchmark,3,0.44491,-0.00129,4756,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+bland_altman,0,0.5526,0.00051,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+bland_altman,1,0.57103,0.0027,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+bland_altman,2,0.71545,0.00795,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+bland_altman,3,1.0,0.01151,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+bland_altman,4,0.66702,0.0052,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,contaminated
+benchmark,0,0.65941,0.00067,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+benchmark,1,0.59626,0.00074,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+benchmark,2,0.86676,-0.0,17713,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+benchmark,3,0.42641,-0.00379,4756,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+bland_altman,0,0.65274,0.00057,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+bland_altman,1,0.59533,0.00055,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+bland_altman,2,0.6794,-0.00062,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+bland_altman,3,1.0,0.00018,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+bland_altman,4,0.64887,-0.00168,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3,null
+benchmark,0,0.51602,0.00502,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+benchmark,1,0.57223,0.01315,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+benchmark,2,0.88415,0.02827,17713,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+benchmark,3,0.41085,0.00171,4756,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+bland_altman,0,0.49786,0.00256,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+bland_altman,1,0.55567,0.00959,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+bland_altman,2,0.72947,0.02372,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+bland_altman,3,1.0,0.03107,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+bland_altman,4,0.65714,0.01917,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,contaminated
+benchmark,0,0.74219,0.00105,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+benchmark,1,0.59947,0.00089,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+benchmark,2,0.84977,0.00054,17713,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+benchmark,3,0.37763,-0.00624,4756,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+bland_altman,0,0.73725,0.00095,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+bland_altman,1,0.59506,0.00067,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+bland_altman,2,0.63774,-0.00097,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+bland_altman,3,1.0,0.00136,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+bland_altman,4,0.62109,-0.00275,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10,null
+benchmark,0,0.47383,0.00764,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+benchmark,1,0.5761,0.0214,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+benchmark,2,0.88093,0.04838,17713,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+benchmark,3,0.35177,-0.00199,4756,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+bland_altman,0,0.44606,0.00276,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+bland_altman,1,0.54793,0.01237,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+bland_altman,2,0.71865,0.03905,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+bland_altman,3,1.0,0.0548,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+bland_altman,4,0.64406,0.03321,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,contaminated
+benchmark,0,0.59733,0.00076,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+benchmark,1,0.58999,0.00124,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+benchmark,2,0.11156,-0.00217,17713,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+benchmark,3,0.35408,-0.0087,4756,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+bland_altman,0,0.58652,0.00056,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+bland_altman,1,0.58785,0.00084,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+bland_altman,2,0.26813,-0.003,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+bland_altman,3,0.0,-0.00174,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+bland_altman,4,0.23351,-0.00531,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20,null
+benchmark,0,0.84793,0.00201,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+benchmark,1,0.86435,0.00789,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+benchmark,2,0.77634,0.0242,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+benchmark,3,0.64486,0.01393,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+benchmark,4,0.4972,0.00456,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+bland_altman,0,0.83792,0.00181,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+bland_altman,1,0.85674,0.00498,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+bland_altman,2,0.76312,0.02117,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+bland_altman,3,0.65327,0.01709,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+bland_altman,4,0.51963,0.00754,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,contaminated
+benchmark,0,0.4215,-0.00014,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+benchmark,1,0.41108,-0.00024,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+benchmark,2,0.49833,0.00077,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+benchmark,3,0.46622,-0.0002,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+benchmark,4,0.43632,-0.0032,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+bland_altman,0,0.40881,-0.00025,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+bland_altman,1,0.41482,-0.00027,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+bland_altman,2,0.49499,0.00049,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+bland_altman,3,0.46582,-0.00046,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+bland_altman,4,0.449,-0.00252,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3,null
+benchmark,0,0.90788,0.00717,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+benchmark,1,0.91055,0.02373,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+benchmark,2,0.8212,0.06833,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+benchmark,3,0.67397,0.03658,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+benchmark,4,0.47891,0.00868,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+bland_altman,0,0.89212,0.0063,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+bland_altman,1,0.89973,0.01334,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+bland_altman,2,0.77634,0.04725,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+bland_altman,3,0.70641,0.05953,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+bland_altman,4,0.51789,0.01807,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,contaminated
+benchmark,0,0.35394,-0.0001,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+benchmark,1,0.31629,-0.00098,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+benchmark,2,0.37054,-0.00157,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+benchmark,3,0.3741,-0.00301,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+benchmark,4,0.38264,-0.0065,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+bland_altman,0,0.33872,-0.0003,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+bland_altman,1,0.32283,-0.00097,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+bland_altman,2,0.36547,-0.00193,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+bland_altman,3,0.3729,-0.00337,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+bland_altman,4,0.3976,-0.00558,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10,null
+benchmark,0,0.92603,0.01412,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+benchmark,1,0.93057,0.04078,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+benchmark,2,0.83309,0.11132,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+benchmark,3,0.6733,0.05523,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+benchmark,4,0.44206,0.00765,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+bland_altman,0,0.90547,0.01197,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+bland_altman,1,0.91175,0.02313,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+bland_altman,2,0.75991,0.05978,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+bland_altman,3,0.72123,0.106,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+bland_altman,4,0.50668,0.0282,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,contaminated
+benchmark,0,0.52243,0.00048,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+benchmark,1,0.45407,-0.0002,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+benchmark,2,0.40566,-0.00243,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+benchmark,3,0.34993,-0.00533,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+benchmark,4,0.32163,-0.01115,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+bland_altman,0,0.50561,0.00027,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+bland_altman,1,0.45928,-0.00025,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+bland_altman,2,0.40206,-0.00281,7489,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+bland_altman,3,0.34927,-0.00583,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+bland_altman,4,0.33752,-0.01001,7490,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20,null
+benchmark,0,0.80429,0.00993,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+benchmark,1,0.68279,0.01352,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+benchmark,2,0.64564,0.01352,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+benchmark,3,0.56733,0.00874,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+benchmark,4,0.44428,-0.00188,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+bland_altman,0,0.78185,0.00745,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+bland_altman,1,0.64938,0.0086,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+bland_altman,2,0.64439,0.01237,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+bland_altman,3,0.58828,0.01278,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+bland_altman,4,0.48043,0.00261,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,contaminated
+benchmark,0,0.42957,-0.00079,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+benchmark,1,0.46384,-0.00061,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+benchmark,2,0.45761,-0.00104,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+benchmark,3,0.45062,-0.00247,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+benchmark,4,0.43755,-0.00381,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+bland_altman,0,0.41536,-0.00118,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+bland_altman,1,0.44713,-0.00137,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+bland_altman,2,0.45885,-0.00124,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+bland_altman,3,0.45411,-0.00268,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+bland_altman,4,0.46372,-0.00227,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3,null
+benchmark,0,0.85939,0.02248,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+benchmark,1,0.71172,0.03342,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+benchmark,2,0.61297,0.03293,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+benchmark,3,0.50075,0.01837,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+benchmark,4,0.3812,-0.00397,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+bland_altman,0,0.82074,0.01548,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+bland_altman,1,0.65636,0.01559,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+bland_altman,2,0.57955,0.02088,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+bland_altman,3,0.55486,0.03792,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+bland_altman,4,0.4545,0.01335,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,contaminated
+benchmark,0,0.33957,-0.00191,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+benchmark,1,0.40723,-0.00229,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+benchmark,2,0.38354,-0.00374,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+benchmark,3,0.37207,-0.00654,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+benchmark,4,0.36026,-0.00874,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+bland_altman,0,0.32461,-0.00238,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+bland_altman,1,0.38653,-0.00321,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+bland_altman,2,0.38803,-0.00411,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+bland_altman,3,0.37731,-0.00649,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+bland_altman,4,0.38619,-0.00702,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10,null
+benchmark,0,0.88581,0.0406,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+benchmark,1,0.7404,0.05425,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+benchmark,2,0.59875,0.04961,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+benchmark,3,0.45337,0.02452,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+benchmark,4,0.3084,-0.01145,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+bland_altman,0,0.83096,0.02546,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+bland_altman,1,0.65486,0.02332,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+bland_altman,2,0.54364,0.02563,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+bland_altman,3,0.52294,0.05206,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+bland_altman,4,0.43431,0.03106,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,contaminated
+benchmark,0,0.20319,-0.0078,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+benchmark,1,0.30474,-0.00651,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+benchmark,2,0.32145,-0.00757,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+benchmark,3,0.29426,-0.01239,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+benchmark,4,0.27325,-0.0174,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+bland_altman,0,0.18524,-0.00896,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+bland_altman,1,0.28878,-0.00758,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+bland_altman,2,0.3202,-0.00804,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+bland_altman,3,0.3015,-0.01231,4010,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+bland_altman,4,0.30117,-0.01478,4011,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20,null
+benchmark,0,0.49838,0.00083,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+benchmark,1,0.47456,0.0037,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+benchmark,2,0.99847,0.00741,8495,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+benchmark,3,0.47879,0.00225,3536,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+bland_altman,0,0.46098,-0.00226,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+bland_altman,1,0.47182,0.00089,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+bland_altman,2,0.98803,0.0073,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+bland_altman,3,1.0,0.00737,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+bland_altman,4,0.58938,0.00891,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,contaminated
+benchmark,0,0.42059,-0.00256,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+benchmark,1,0.41197,-0.00283,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+benchmark,2,0.99859,0.00012,8495,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+benchmark,3,0.46097,-0.00017,3536,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+bland_altman,0,0.39043,-0.00447,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+bland_altman,1,0.41421,-0.00401,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+bland_altman,2,0.98828,0.00015,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+bland_altman,3,1.0,0.0001,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+bland_altman,4,0.56146,0.00295,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3,null
+benchmark,0,0.5101,0.00397,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+benchmark,1,0.42494,0.00654,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+benchmark,2,0.99823,0.02424,8495,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+benchmark,3,0.40979,-0.0026,3536,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+bland_altman,0,0.46048,-0.00259,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+bland_altman,1,0.41945,0.00153,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+bland_altman,2,0.97431,0.02357,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+bland_altman,3,1.0,0.02423,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+bland_altman,4,0.55672,0.01284,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,contaminated
+benchmark,0,0.39791,-0.00278,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+benchmark,1,0.36509,-0.00516,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+benchmark,2,0.00165,-0.00142,8495,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+benchmark,3,0.41544,-0.00506,3536,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+bland_altman,0,0.36699,-0.00494,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+bland_altman,1,0.36409,-0.0066,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+bland_altman,2,0.00998,-0.00169,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+bland_altman,3,0.0,-0.00142,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+bland_altman,4,0.39167,-0.00077,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10,null
+benchmark,0,0.49564,0.00774,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+benchmark,1,0.4197,0.00909,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+benchmark,2,0.99812,0.04402,8495,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+benchmark,3,0.35775,-0.01004,3536,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+bland_altman,0,0.42309,-0.00667,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+bland_altman,1,0.40599,-0.00053,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+bland_altman,2,0.95536,0.04164,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+bland_altman,3,1.0,0.04408,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+bland_altman,4,0.56071,0.0227,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,contaminated
+benchmark,0,0.37198,-0.00612,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+benchmark,1,0.32369,-0.01015,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+benchmark,2,0.00118,-0.00385,8495,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+benchmark,3,0.34898,-0.01179,3536,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+bland_altman,0,0.33807,-0.00959,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+bland_altman,1,0.32544,-0.01102,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+bland_altman,2,0.01397,-0.00427,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+bland_altman,3,0.0,-0.00382,4010,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+bland_altman,4,0.32835,-0.0061,4011,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20,null
+benchmark,0,0.93169,0.0145,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+benchmark,1,0.77581,0.01971,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+benchmark,2,0.61895,0.01457,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+benchmark,3,0.53017,0.00738,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+benchmark,4,0.41212,-0.00423,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+bland_altman,0,0.91972,0.01263,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+bland_altman,1,0.7409,0.01498,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+bland_altman,2,0.60623,0.01302,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+bland_altman,3,0.55162,0.01134,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+bland_altman,4,0.45026,-5e-05,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,contaminated
+benchmark,0,0.51234,0.00013,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+benchmark,1,0.49401,0.00023,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+benchmark,2,0.47406,-0.00013,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+benchmark,3,0.47257,-0.00089,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+benchmark,4,0.42284,-0.00391,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+bland_altman,0,0.50062,-0.0001,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+bland_altman,1,0.4813,-0.00032,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+bland_altman,2,0.46284,-0.00096,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+bland_altman,3,0.47681,-0.00128,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+bland_altman,4,0.45425,-0.00191,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3,null
+benchmark,0,0.95338,0.03117,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+benchmark,1,0.81571,0.04188,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+benchmark,2,0.62319,0.03454,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+benchmark,3,0.52195,0.01761,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+benchmark,4,0.36899,-0.00626,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+bland_altman,0,0.93767,0.02552,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+bland_altman,1,0.74713,0.0255,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+bland_altman,2,0.58778,0.02212,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+bland_altman,3,0.57032,0.03696,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+bland_altman,4,0.44029,0.00884,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,contaminated
+benchmark,0,0.36525,-0.00138,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+benchmark,1,0.46309,-0.00053,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+benchmark,2,0.44788,-0.00153,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+benchmark,3,0.39576,-0.00479,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+benchmark,4,0.35951,-0.00915,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+bland_altman,0,0.35652,-0.0016,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+bland_altman,1,0.44015,-0.00141,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+bland_altman,2,0.4419,-0.00227,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+bland_altman,3,0.40324,-0.00511,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+bland_altman,4,0.38968,-0.00698,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10,null
+benchmark,0,0.95836,0.05847,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+benchmark,1,0.81895,0.06719,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+benchmark,2,0.60249,0.05046,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+benchmark,3,0.45436,0.02048,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+benchmark,4,0.29419,-0.01609,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+bland_altman,0,0.92446,0.04439,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+bland_altman,1,0.7187,0.0374,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+bland_altman,2,0.54638,0.02984,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+bland_altman,3,0.52419,0.0483,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+bland_altman,4,0.41461,0.02058,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,contaminated
+benchmark,0,0.23735,-0.0048,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+benchmark,1,0.33791,-0.00584,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+benchmark,2,0.34065,-0.00656,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+benchmark,3,0.30175,-0.0124,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+benchmark,4,0.27948,-0.01685,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+bland_altman,0,0.22563,-0.00532,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+bland_altman,1,0.31895,-0.00697,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+bland_altman,2,0.33317,-0.00749,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+bland_altman,3,0.30798,-0.01284,4010,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+bland_altman,4,0.31139,-0.01384,4011,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20,null
+benchmark,0,0.97391,0.01464,2913,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+benchmark,1,0.96154,0.01881,2912,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+benchmark,2,0.91724,0.02357,2912,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+benchmark,3,0.75275,0.02038,2912,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+benchmark,4,0.46653,-8e-05,2913,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+bland_altman,0,0.95812,0.01182,2913,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+bland_altman,1,0.97047,0.01807,2912,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+bland_altman,2,0.90762,0.02297,2912,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+bland_altman,3,0.74519,0.02185,2912,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+bland_altman,4,0.49056,0.00261,2913,Astacus astacus,Astacus_astacus,local_only,3,contaminated
+benchmark,0,0.52832,0.00031,2913,Astacus astacus,Astacus_astacus,local_only,3,null
+benchmark,1,0.49348,1e-05,2912,Astacus astacus,Astacus_astacus,local_only,3,null
+benchmark,2,0.45398,-0.00055,2912,Astacus astacus,Astacus_astacus,local_only,3,null
+benchmark,3,0.49038,-0.0002,2912,Astacus astacus,Astacus_astacus,local_only,3,null
+benchmark,4,0.45829,-0.00247,2913,Astacus astacus,Astacus_astacus,local_only,3,null
+bland_altman,0,0.50429,6e-05,2913,Astacus astacus,Astacus_astacus,local_only,3,null
+bland_altman,1,0.50755,0.00012,2912,Astacus astacus,Astacus_astacus,local_only,3,null
+bland_altman,2,0.45433,-0.00071,2912,Astacus astacus,Astacus_astacus,local_only,3,null
+bland_altman,3,0.48558,-0.0007,2912,Astacus astacus,Astacus_astacus,local_only,3,null
+bland_altman,4,0.47271,-0.00167,2913,Astacus astacus,Astacus_astacus,local_only,3,null
+benchmark,0,0.98661,0.045,2913,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+benchmark,1,0.98283,0.05401,2912,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+benchmark,2,0.93681,0.06257,2912,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+benchmark,3,0.76854,0.04826,2912,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+benchmark,4,0.39341,-0.0005,2913,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+bland_altman,0,0.97391,0.03067,2913,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+bland_altman,1,0.98626,0.05168,2912,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+bland_altman,2,0.91484,0.06315,2912,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+bland_altman,3,0.75687,0.05546,2912,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+bland_altman,4,0.43632,0.00837,2913,Astacus astacus,Astacus_astacus,local_only,10,contaminated
+benchmark,0,0.54755,0.00049,2913,Astacus astacus,Astacus_astacus,local_only,10,null
+benchmark,1,0.38221,-0.00098,2912,Astacus astacus,Astacus_astacus,local_only,10,null
+benchmark,2,0.28777,-0.00322,2912,Astacus astacus,Astacus_astacus,local_only,10,null
+benchmark,3,0.40488,-0.0034,2912,Astacus astacus,Astacus_astacus,local_only,10,null
+benchmark,4,0.43014,-0.00391,2913,Astacus astacus,Astacus_astacus,local_only,10,null
+bland_altman,0,0.51562,0.00012,2913,Astacus astacus,Astacus_astacus,local_only,10,null
+bland_altman,1,0.40316,-0.00083,2912,Astacus astacus,Astacus_astacus,local_only,10,null
+bland_altman,2,0.28674,-0.00347,2912,Astacus astacus,Astacus_astacus,local_only,10,null
+bland_altman,3,0.40179,-0.00382,2912,Astacus astacus,Astacus_astacus,local_only,10,null
+bland_altman,4,0.44525,-0.00302,2913,Astacus astacus,Astacus_astacus,local_only,10,null
+benchmark,0,0.99039,0.08299,2913,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+benchmark,1,0.98455,0.09674,2912,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+benchmark,2,0.9557,0.10703,2912,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+benchmark,3,0.77953,0.07892,2912,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+benchmark,4,0.35393,-0.00373,2913,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+bland_altman,0,0.97528,0.04802,2913,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+bland_altman,1,0.98695,0.08871,2912,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+bland_altman,2,0.92582,0.11583,2912,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+bland_altman,3,0.73935,0.0907,2912,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+bland_altman,4,0.43666,0.01869,2913,Astacus astacus,Astacus_astacus,local_only,20,contaminated
+benchmark,0,0.61002,0.00105,2913,Astacus astacus,Astacus_astacus,local_only,20,null
+benchmark,1,0.52507,0.00077,2912,Astacus astacus,Astacus_astacus,local_only,20,null
+benchmark,2,0.4921,-0.00035,2912,Astacus astacus,Astacus_astacus,local_only,20,null
+benchmark,3,0.39423,-0.0052,2912,Astacus astacus,Astacus_astacus,local_only,20,null
+benchmark,4,0.30175,-0.01418,2913,Astacus astacus,Astacus_astacus,local_only,20,null
+bland_altman,0,0.57981,0.00066,2913,Astacus astacus,Astacus_astacus,local_only,20,null
+bland_altman,1,0.53503,0.00064,2912,Astacus astacus,Astacus_astacus,local_only,20,null
+bland_altman,2,0.49588,-0.00064,2912,Astacus astacus,Astacus_astacus,local_only,20,null
+bland_altman,3,0.39354,-0.00561,2912,Astacus astacus,Astacus_astacus,local_only,20,null
+bland_altman,4,0.31892,-0.01295,2913,Astacus astacus,Astacus_astacus,local_only,20,null
+benchmark,0,0.90113,0.00725,2913,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+benchmark,1,0.73283,0.00893,2912,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+benchmark,2,0.99423,0.01328,6236,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+benchmark,3,0.42743,-0.00147,2501,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+bland_altman,0,0.89701,0.00648,2913,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+bland_altman,1,0.7239,0.00864,2912,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+bland_altman,2,0.97665,0.01285,2912,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+bland_altman,3,1.0,0.01338,2912,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+bland_altman,4,0.53244,0.002,2913,Astacus astacus,Astacus_astacus,upstream_only,3,contaminated
+benchmark,0,0.51528,0.00024,2913,Astacus astacus,Astacus_astacus,upstream_only,3,null
+benchmark,1,0.39835,-0.00106,2912,Astacus astacus,Astacus_astacus,upstream_only,3,null
+benchmark,2,0.99407,0.00167,6236,Astacus astacus,Astacus_astacus,upstream_only,3,null
+benchmark,3,0.40224,-0.00438,2501,Astacus astacus,Astacus_astacus,upstream_only,3,null
+bland_altman,0,0.5091,0.00014,2913,Astacus astacus,Astacus_astacus,upstream_only,3,null
+bland_altman,1,0.39629,-0.00141,2912,Astacus astacus,Astacus_astacus,upstream_only,3,null
+bland_altman,2,0.98043,0.00151,2912,Astacus astacus,Astacus_astacus,upstream_only,3,null
+bland_altman,3,1.0,0.00168,2912,Astacus astacus,Astacus_astacus,upstream_only,3,null
+bland_altman,4,0.50189,-0.00294,2913,Astacus astacus,Astacus_astacus,upstream_only,3,null
+benchmark,0,0.94988,0.02175,2913,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+benchmark,1,0.78228,0.03055,2912,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+benchmark,2,0.99439,0.03511,6236,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+benchmark,3,0.38864,-0.00167,2501,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+bland_altman,0,0.9413,0.01727,2913,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+bland_altman,1,0.76408,0.03035,2912,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+bland_altman,2,0.97184,0.03401,2912,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+bland_altman,3,1.0,0.03537,2912,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+bland_altman,4,0.51802,0.00904,2913,Astacus astacus,Astacus_astacus,upstream_only,10,contaminated
+benchmark,0,0.39341,-0.00032,2913,Astacus astacus,Astacus_astacus,upstream_only,10,null
+benchmark,1,0.2682,-0.004,2912,Astacus astacus,Astacus_astacus,upstream_only,10,null
+benchmark,2,0.99423,0.00168,6236,Astacus astacus,Astacus_astacus,upstream_only,10,null
+benchmark,3,0.37585,-0.0072,2501,Astacus astacus,Astacus_astacus,upstream_only,10,null
+bland_altman,0,0.38448,-0.00053,2913,Astacus astacus,Astacus_astacus,upstream_only,10,null
+bland_altman,1,0.2682,-0.00428,2912,Astacus astacus,Astacus_astacus,upstream_only,10,null
+bland_altman,2,0.97768,0.00145,2912,Astacus astacus,Astacus_astacus,upstream_only,10,null
+bland_altman,3,1.0,0.00171,2912,Astacus astacus,Astacus_astacus,upstream_only,10,null
+bland_altman,4,0.48301,-0.00524,2913,Astacus astacus,Astacus_astacus,upstream_only,10,null
+benchmark,0,0.97631,0.04529,2913,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+benchmark,1,0.80151,0.05493,2912,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+benchmark,2,0.99359,0.05972,6236,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+benchmark,3,0.35026,-0.0042,2501,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+bland_altman,0,0.96704,0.03383,2913,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+bland_altman,1,0.76099,0.05485,2912,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+bland_altman,2,0.9581,0.05698,2912,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+bland_altman,3,1.0,0.06009,2912,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+bland_altman,4,0.52008,0.01876,2913,Astacus astacus,Astacus_astacus,upstream_only,20,contaminated
+benchmark,0,0.30175,-0.0013,2913,Astacus astacus,Astacus_astacus,upstream_only,20,null
+benchmark,1,0.40797,-0.00414,2912,Astacus astacus,Astacus_astacus,upstream_only,20,null
+benchmark,2,0.99294,0.00267,6236,Astacus astacus,Astacus_astacus,upstream_only,20,null
+benchmark,3,0.27429,-0.0164,2501,Astacus astacus,Astacus_astacus,upstream_only,20,null
+bland_altman,0,0.28974,-0.00204,2913,Astacus astacus,Astacus_astacus,upstream_only,20,null
+bland_altman,1,0.40865,-0.00441,2912,Astacus astacus,Astacus_astacus,upstream_only,20,null
+bland_altman,2,0.96875,0.00226,2912,Astacus astacus,Astacus_astacus,upstream_only,20,null
+bland_altman,3,1.0,0.00279,2912,Astacus astacus,Astacus_astacus,upstream_only,20,null
+bland_altman,4,0.40439,-0.01242,2913,Astacus astacus,Astacus_astacus,upstream_only,20,null
+benchmark,0,0.97494,0.0141,2913,Astacus astacus,Astacus_astacus,combined,3,contaminated
+benchmark,1,0.98214,0.02025,2912,Astacus astacus,Astacus_astacus,combined,3,contaminated
+benchmark,2,0.94402,0.02667,2912,Astacus astacus,Astacus_astacus,combined,3,contaminated
+benchmark,3,0.76236,0.01992,2912,Astacus astacus,Astacus_astacus,combined,3,contaminated
+benchmark,4,0.46722,0.00025,2913,Astacus astacus,Astacus_astacus,combined,3,contaminated
+bland_altman,0,0.96773,0.01115,2913,Astacus astacus,Astacus_astacus,combined,3,contaminated
+bland_altman,1,0.98661,0.01948,2912,Astacus astacus,Astacus_astacus,combined,3,contaminated
+bland_altman,2,0.93544,0.02621,2912,Astacus astacus,Astacus_astacus,combined,3,contaminated
+bland_altman,3,0.74897,0.02144,2912,Astacus astacus,Astacus_astacus,combined,3,contaminated
+bland_altman,4,0.49193,0.00291,2913,Astacus astacus,Astacus_astacus,combined,3,contaminated
+benchmark,0,0.55098,0.00035,2913,Astacus astacus,Astacus_astacus,combined,3,null
+benchmark,1,0.49828,-6e-05,2912,Astacus astacus,Astacus_astacus,combined,3,null
+benchmark,2,0.48935,-0.00014,2912,Astacus astacus,Astacus_astacus,combined,3,null
+benchmark,3,0.53056,0.00036,2912,Astacus astacus,Astacus_astacus,combined,3,null
+benchmark,4,0.47614,-0.00168,2913,Astacus astacus,Astacus_astacus,combined,3,null
+bland_altman,0,0.52626,0.00011,2913,Astacus astacus,Astacus_astacus,combined,3,null
+bland_altman,1,0.5103,2e-05,2912,Astacus astacus,Astacus_astacus,combined,3,null
+bland_altman,2,0.49313,-0.00027,2912,Astacus astacus,Astacus_astacus,combined,3,null
+bland_altman,3,0.52576,-3e-05,2912,Astacus astacus,Astacus_astacus,combined,3,null
+bland_altman,4,0.48987,-0.00099,2913,Astacus astacus,Astacus_astacus,combined,3,null
+benchmark,0,0.99313,0.04334,2913,Astacus astacus,Astacus_astacus,combined,10,contaminated
+benchmark,1,0.99622,0.05766,2912,Astacus astacus,Astacus_astacus,combined,10,contaminated
+benchmark,2,0.9557,0.07042,2912,Astacus astacus,Astacus_astacus,combined,10,contaminated
+benchmark,3,0.77988,0.04666,2912,Astacus astacus,Astacus_astacus,combined,10,contaminated
+benchmark,4,0.4092,-0.00011,2913,Astacus astacus,Astacus_astacus,combined,10,contaminated
+bland_altman,0,0.99073,0.02912,2913,Astacus astacus,Astacus_astacus,combined,10,contaminated
+bland_altman,1,0.99279,0.05537,2912,Astacus astacus,Astacus_astacus,combined,10,contaminated
+bland_altman,2,0.93922,0.07136,2912,Astacus astacus,Astacus_astacus,combined,10,contaminated
+bland_altman,3,0.75755,0.05357,2912,Astacus astacus,Astacus_astacus,combined,10,contaminated
+bland_altman,4,0.45383,0.00856,2913,Astacus astacus,Astacus_astacus,combined,10,contaminated
+benchmark,0,0.55956,0.00043,2913,Astacus astacus,Astacus_astacus,combined,10,null
+benchmark,1,0.3829,-0.00092,2912,Astacus astacus,Astacus_astacus,combined,10,null
+benchmark,2,0.31319,-0.00289,2912,Astacus astacus,Astacus_astacus,combined,10,null
+benchmark,3,0.39801,-0.00319,2912,Astacus astacus,Astacus_astacus,combined,10,null
+benchmark,4,0.39169,-0.00643,2913,Astacus astacus,Astacus_astacus,combined,10,null
+bland_altman,0,0.53587,0.00019,2913,Astacus astacus,Astacus_astacus,combined,10,null
+bland_altman,1,0.39389,-0.00091,2912,Astacus astacus,Astacus_astacus,combined,10,null
+bland_altman,2,0.31593,-0.00311,2912,Astacus astacus,Astacus_astacus,combined,10,null
+bland_altman,3,0.39183,-0.0038,2912,Astacus astacus,Astacus_astacus,combined,10,null
+bland_altman,4,0.40783,-0.00537,2913,Astacus astacus,Astacus_astacus,combined,10,null
+benchmark,0,0.99554,0.07983,2913,Astacus astacus,Astacus_astacus,combined,20,contaminated
+benchmark,1,0.99554,0.1038,2912,Astacus astacus,Astacus_astacus,combined,20,contaminated
+benchmark,2,0.96463,0.11853,2912,Astacus astacus,Astacus_astacus,combined,20,contaminated
+benchmark,3,0.76957,0.0734,2912,Astacus astacus,Astacus_astacus,combined,20,contaminated
+benchmark,4,0.3656,-0.00447,2913,Astacus astacus,Astacus_astacus,combined,20,contaminated
+bland_altman,0,0.99107,0.04676,2913,Astacus astacus,Astacus_astacus,combined,20,contaminated
+bland_altman,1,0.99245,0.09402,2912,Astacus astacus,Astacus_astacus,combined,20,contaminated
+bland_altman,2,0.93201,0.1259,2912,Astacus astacus,Astacus_astacus,combined,20,contaminated
+bland_altman,3,0.7294,0.08718,2912,Astacus astacus,Astacus_astacus,combined,20,contaminated
+bland_altman,4,0.44593,0.01723,2913,Astacus astacus,Astacus_astacus,combined,20,contaminated
+benchmark,0,0.57158,0.00063,2913,Astacus astacus,Astacus_astacus,combined,20,null
+benchmark,1,0.50721,0.00017,2912,Astacus astacus,Astacus_astacus,combined,20,null
+benchmark,2,0.4533,-0.00129,2912,Astacus astacus,Astacus_astacus,combined,20,null
+benchmark,3,0.40282,-0.00557,2912,Astacus astacus,Astacus_astacus,combined,20,null
+benchmark,4,0.3069,-0.01433,2913,Astacus astacus,Astacus_astacus,combined,20,null
+bland_altman,0,0.54514,0.00032,2913,Astacus astacus,Astacus_astacus,combined,20,null
+bland_altman,1,0.51614,0.0001,2912,Astacus astacus,Astacus_astacus,combined,20,null
+bland_altman,2,0.45398,-0.00177,2912,Astacus astacus,Astacus_astacus,combined,20,null
+bland_altman,3,0.40179,-0.006,2912,Astacus astacus,Astacus_astacus,combined,20,null
+bland_altman,4,0.32475,-0.01306,2913,Astacus astacus,Astacus_astacus,combined,20,null
+benchmark,0,0.73214,0.00145,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+benchmark,1,0.83075,0.00239,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+benchmark,2,0.84084,0.00281,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+benchmark,3,0.78597,0.003,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+benchmark,4,0.58644,0.00428,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+bland_altman,0,0.71791,0.00124,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+bland_altman,1,0.831,0.00229,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+bland_altman,2,0.84343,0.00279,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+bland_altman,3,0.78908,0.00292,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+bland_altman,4,0.59472,0.00469,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,contaminated
+benchmark,0,0.6413,0.00067,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+benchmark,1,0.67417,0.00079,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+benchmark,2,0.6514,0.00062,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+benchmark,3,0.59006,0.00067,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+benchmark,4,0.52381,0.00062,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+bland_altman,0,0.63018,0.00056,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+bland_altman,1,0.67081,0.00073,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+bland_altman,2,0.65192,0.00059,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+bland_altman,3,0.59757,0.00063,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+bland_altman,4,0.53028,0.00086,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3,null
+benchmark,0,0.74586,0.00331,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+benchmark,1,0.86077,0.00604,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+benchmark,2,0.88613,0.00661,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+benchmark,3,0.82686,0.0066,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+benchmark,4,0.56263,0.00493,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+bland_altman,0,0.72231,0.00258,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+bland_altman,1,0.86517,0.0056,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+bland_altman,2,0.88716,0.00631,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+bland_altman,3,0.83359,0.00653,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+bland_altman,4,0.57402,0.00647,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,contaminated
+benchmark,0,0.544,0.00025,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+benchmark,1,0.65295,0.00087,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+benchmark,2,0.65243,0.00083,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+benchmark,3,0.53571,-0.00035,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+benchmark,4,0.39053,-0.00688,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+bland_altman,0,0.52562,6e-05,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+bland_altman,1,0.64726,0.00074,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+bland_altman,2,0.65373,0.00078,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+bland_altman,3,0.54917,-0.00032,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+bland_altman,4,0.39984,-0.00654,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10,null
+benchmark,0,0.79503,0.00543,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+benchmark,1,0.88898,0.0094,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+benchmark,2,0.90813,0.01026,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+benchmark,3,0.82531,0.00915,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+benchmark,4,0.55952,0.00855,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+bland_altman,0,0.76812,0.00437,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+bland_altman,1,0.89286,0.00839,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+bland_altman,2,0.90657,0.00915,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+bland_altman,3,0.83178,0.00918,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+bland_altman,4,0.57764,0.01169,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,contaminated
+benchmark,0,0.5264,0.00056,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+benchmark,1,0.50751,-0.00018,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+benchmark,2,0.40424,-0.00161,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+benchmark,3,0.26993,-0.00466,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+benchmark,4,0.27174,-0.01582,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+bland_altman,0,0.49275,-2e-05,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+bland_altman,1,0.50104,-0.0004,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+bland_altman,2,0.41149,-0.00176,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+bland_altman,3,0.29115,-0.00461,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+bland_altman,4,0.28339,-0.01491,3864,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20,null
+benchmark,0,0.75311,0.00066,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+benchmark,1,0.7293,0.00163,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+benchmark,2,0.80331,0.00282,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+benchmark,3,0.0839,-0.00079,7187,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+benchmark,4,0.51386,-0.00025,541,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+bland_altman,0,0.74224,0.00057,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+bland_altman,1,0.73758,0.00147,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+bland_altman,2,0.80124,0.00287,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+bland_altman,3,0.15735,-0.00035,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+bland_altman,4,0.07531,-0.00096,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,contaminated
+benchmark,0,0.63846,0.00026,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+benchmark,1,0.63018,0.00065,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+benchmark,2,0.37578,-0.0004,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+benchmark,3,0.10296,-0.00134,7187,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+benchmark,4,0.45841,-0.00341,541,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+bland_altman,0,0.62293,0.00018,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+bland_altman,1,0.64079,0.00067,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+bland_altman,2,0.37655,-0.00048,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+bland_altman,3,0.19462,-0.00105,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+bland_altman,4,0.06522,-0.00178,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3,null
+benchmark,0,0.77329,0.00096,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+benchmark,1,0.71843,0.0022,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+benchmark,2,0.82453,0.00571,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+benchmark,3,0.07736,-0.00123,7187,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+benchmark,4,0.48799,-0.00035,541,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+bland_altman,0,0.75699,0.00075,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+bland_altman,1,0.73007,0.00196,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+bland_altman,2,0.81884,0.00497,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+bland_altman,3,0.14959,-8e-05,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+bland_altman,4,0.07298,-0.00106,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,contaminated
+benchmark,0,0.72826,0.00073,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+benchmark,1,0.80124,0.00245,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+benchmark,2,0.50673,0.00121,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+benchmark,3,0.07527,-0.00292,7187,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+benchmark,4,0.32163,-0.01204,541,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+bland_altman,0,0.71144,0.00057,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+bland_altman,1,0.81056,0.00237,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+bland_altman,2,0.50932,0.00113,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+bland_altman,3,0.14389,-0.00353,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+bland_altman,4,0.04607,-0.00327,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10,null
+benchmark,0,0.74405,0.00096,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+benchmark,1,0.63923,0.002,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+benchmark,2,0.76889,0.00843,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+benchmark,3,0.8777,0.0012,7187,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+benchmark,4,0.50647,0.00458,541,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+bland_altman,0,0.72334,0.00068,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+bland_altman,1,0.65062,0.00139,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+bland_altman,2,0.76346,0.0071,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+bland_altman,3,0.78235,0.00343,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+bland_altman,4,0.93582,0.00165,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,contaminated
+benchmark,0,0.73939,0.00099,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+benchmark,1,0.76216,0.0037,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+benchmark,2,0.5766,0.00265,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+benchmark,3,0.05941,-0.00788,7187,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+benchmark,4,0.26987,-0.01861,541,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+bland_altman,0,0.72283,0.00072,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+bland_altman,1,0.77277,0.00354,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+bland_altman,2,0.57635,0.00264,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+bland_altman,3,0.11465,-0.00775,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+bland_altman,4,0.03986,-0.00907,3864,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20,null
+benchmark,0,0.68297,0.00118,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+benchmark,1,0.81573,0.0021,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+benchmark,2,0.78313,0.00197,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+benchmark,3,0.7148,0.00218,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+benchmark,4,0.58333,0.00362,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+bland_altman,0,0.67391,0.001,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+bland_altman,1,0.81599,0.00208,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+bland_altman,2,0.78028,0.0019,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+bland_altman,3,0.71713,0.00211,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+bland_altman,4,0.59265,0.00396,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,contaminated
+benchmark,0,0.64441,0.00096,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+benchmark,1,0.67443,0.00125,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+benchmark,2,0.57479,0.00054,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+benchmark,3,0.51449,0.00031,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+benchmark,4,0.46247,-0.00153,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+bland_altman,0,0.63458,0.00082,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+bland_altman,1,0.67029,0.00119,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+bland_altman,2,0.57609,0.00057,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+bland_altman,3,0.51475,2e-05,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+bland_altman,4,0.4749,-0.00107,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3,null
+benchmark,0,0.65347,0.00179,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+benchmark,1,0.81263,0.00477,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+benchmark,2,0.84084,0.00506,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+benchmark,3,0.81289,0.005,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+benchmark,4,0.57091,0.0055,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+bland_altman,0,0.63095,0.0011,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+bland_altman,1,0.81858,0.00461,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+bland_altman,2,0.84084,0.00472,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+bland_altman,3,0.81315,0.00463,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+bland_altman,4,0.58722,0.00706,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,contaminated
+benchmark,0,0.51786,0.00029,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+benchmark,1,0.62966,0.00124,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+benchmark,2,0.5484,0.00032,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+benchmark,3,0.48861,-0.00039,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+benchmark,4,0.42702,-0.00604,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+bland_altman,0,0.5,-2e-05,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+bland_altman,1,0.62552,0.00115,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+bland_altman,2,0.55383,0.00033,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+bland_altman,3,0.49249,-0.00052,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+bland_altman,4,0.4397,-0.00551,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10,null
+benchmark,0,0.69565,0.00309,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+benchmark,1,0.86931,0.00782,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+benchmark,2,0.88406,0.00799,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+benchmark,3,0.71092,0.00615,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+benchmark,4,0.56936,0.01097,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+bland_altman,0,0.67158,0.00213,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+bland_altman,1,0.87681,0.00722,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+bland_altman,2,0.87681,0.00686,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+bland_altman,3,0.71014,0.00562,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+bland_altman,4,0.59394,0.0142,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,contaminated
+benchmark,0,0.53986,0.00179,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+benchmark,1,0.56082,0.0018,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+benchmark,2,0.35455,-0.00227,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+benchmark,3,0.19876,-0.00584,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+benchmark,4,0.24948,-0.01589,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+bland_altman,0,0.50518,0.00089,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+bland_altman,1,0.55305,0.00151,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+bland_altman,2,0.36724,-0.00214,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+bland_altman,3,0.21454,-0.00589,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+bland_altman,4,0.26346,-0.01478,3864,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20,null
+benchmark,0,0.56853,0.00148,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+benchmark,1,0.58248,0.00249,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+benchmark,2,0.58052,0.00313,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+benchmark,3,0.54543,0.00278,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+benchmark,4,0.48137,-0.00016,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+bland_altman,0,0.54456,0.00064,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+bland_altman,1,0.57115,0.00171,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+bland_altman,2,0.57703,0.00235,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+bland_altman,3,0.55589,0.00281,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+bland_altman,4,0.5097,0.00222,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,contaminated
+benchmark,0,0.46503,0.0008,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+benchmark,1,0.40662,-0.00169,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+benchmark,2,0.41534,-0.00196,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+benchmark,3,0.42863,-0.00264,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+benchmark,4,0.44846,-0.00334,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+bland_altman,0,0.43931,-0.00012,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+bland_altman,1,0.40096,-0.00205,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+bland_altman,2,0.41185,-0.00252,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+bland_altman,3,0.43713,-0.00266,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+bland_altman,4,0.47483,-0.00148,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3,null
+benchmark,0,0.747,0.01472,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+benchmark,1,0.72129,0.01388,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+benchmark,2,0.69885,0.01507,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+benchmark,3,0.64698,0.01319,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+benchmark,4,0.4635,0.00015,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+bland_altman,0,0.70843,0.01048,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+bland_altman,1,0.70778,0.01253,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+bland_altman,2,0.69993,0.01392,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+bland_altman,3,0.65548,0.01407,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+bland_altman,4,0.50599,0.00602,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,contaminated
+benchmark,0,0.41185,-0.00065,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+benchmark,1,0.3175,-0.00512,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+benchmark,2,0.3358,-0.00584,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+benchmark,3,0.38156,-0.00645,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+benchmark,4,0.40292,-0.00735,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+bland_altman,0,0.38483,-0.00227,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+bland_altman,1,0.31161,-0.0052,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+bland_altman,2,0.33406,-0.00639,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+bland_altman,3,0.38832,-0.00648,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+bland_altman,4,0.43081,-0.00508,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10,null
+benchmark,0,0.78143,0.02629,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+benchmark,1,0.78557,0.0271,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+benchmark,2,0.76749,0.02888,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+benchmark,3,0.67662,0.02313,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+benchmark,4,0.44389,0.00074,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+bland_altman,0,0.73371,0.01806,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+bland_altman,1,0.77054,0.02249,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+bland_altman,2,0.75681,0.02686,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+bland_altman,3,0.69383,0.02733,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+bland_altman,4,0.50011,0.0114,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,contaminated
+benchmark,0,0.36566,-0.00425,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+benchmark,1,0.29505,-0.00709,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+benchmark,2,0.24733,-0.01092,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+benchmark,3,0.27697,-0.0151,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+benchmark,4,0.29113,-0.01851,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+bland_altman,0,0.3345,-0.00568,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+bland_altman,1,0.28786,-0.00807,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+bland_altman,2,0.2506,-0.01158,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+bland_altman,3,0.28024,-0.01591,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+bland_altman,4,0.32295,-0.01464,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20,null
+benchmark,0,0.58793,0.00227,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+benchmark,1,0.52713,0.0019,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+benchmark,2,0.9048,0.00153,11155,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+benchmark,3,0.44717,-0.0026,2612,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+bland_altman,0,0.57202,0.0016,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+bland_altman,1,0.52386,0.00114,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+bland_altman,2,0.76683,0.00103,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+bland_altman,3,1.0,0.00158,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+bland_altman,4,0.70625,0.00107,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,contaminated
+benchmark,0,0.58793,0.00111,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+benchmark,1,0.49597,-1e-05,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+benchmark,2,0.08445,-0.00157,11155,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+benchmark,3,0.48009,-0.0022,2612,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+bland_altman,0,0.5742,0.00073,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+bland_altman,1,0.49052,-0.00064,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+bland_altman,2,0.20985,-0.00237,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+bland_altman,3,0.0,-0.00118,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+bland_altman,4,0.28786,-0.00049,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3,null
+benchmark,0,0.50992,0.00235,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+benchmark,1,0.59294,0.00824,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+benchmark,2,0.9108,0.00858,11155,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+benchmark,3,0.48162,0.00088,2612,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+bland_altman,0,0.48464,0.00042,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+bland_altman,1,0.58793,0.00595,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+bland_altman,2,0.78819,0.0086,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+bland_altman,3,1.0,0.0091,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+bland_altman,4,0.73022,0.00787,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,contaminated
+benchmark,0,0.52626,-0.00079,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+benchmark,1,0.40989,-0.00398,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+benchmark,2,0.0788,-0.00399,11155,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+benchmark,3,0.45061,-0.00493,2612,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+bland_altman,0,0.50686,-0.0015,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+bland_altman,1,0.41055,-0.00468,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+bland_altman,2,0.19547,-0.0055,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+bland_altman,3,0.0,-0.0034,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+bland_altman,4,0.2713,-0.0022,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10,null
+benchmark,0,0.68141,0.00976,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+benchmark,1,0.60187,0.01553,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+benchmark,2,0.90811,0.01331,11155,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+benchmark,3,0.4219,-0.00308,2612,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+bland_altman,0,0.64611,0.00509,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+bland_altman,1,0.59229,0.01143,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+bland_altman,2,0.78383,0.01513,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+bland_altman,3,1.0,0.01406,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+bland_altman,4,0.70865,0.0102,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,contaminated
+benchmark,0,0.65308,0.00187,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+benchmark,1,0.39137,-0.00534,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+benchmark,2,0.07127,-0.00366,11155,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+benchmark,3,0.37136,-0.01245,2612,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+bland_altman,0,0.63413,0.00108,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+bland_altman,1,0.38832,-0.00671,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+bland_altman,2,0.18414,-0.00659,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+bland_altman,3,0.0,-0.00188,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+bland_altman,4,0.22249,-0.00535,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20,null
+benchmark,0,0.55807,0.00134,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+benchmark,1,0.62737,0.00363,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+benchmark,2,0.62672,0.00495,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+benchmark,3,0.57049,0.00535,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+benchmark,4,0.4672,-0.00099,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+bland_altman,0,0.53497,0.00061,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+bland_altman,1,0.61473,0.00259,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+bland_altman,2,0.62715,0.00419,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+bland_altman,3,0.57638,0.00502,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+bland_altman,4,0.49662,0.00187,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,contaminated
+benchmark,0,0.49008,-8e-05,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+benchmark,1,0.45217,-0.00102,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+benchmark,2,0.47025,-0.00067,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+benchmark,3,0.46611,-0.00137,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+benchmark,4,0.4598,-0.00274,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+bland_altman,0,0.47047,-0.00063,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+bland_altman,1,0.43713,-0.00171,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+bland_altman,2,0.46982,-0.00124,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+bland_altman,3,0.47374,-0.00171,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+bland_altman,4,0.48725,-0.0006,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3,null
+benchmark,0,0.60144,0.00867,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+benchmark,1,0.71453,0.01462,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+benchmark,2,0.73676,0.01582,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+benchmark,3,0.65831,0.01456,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+benchmark,4,0.47592,0.00124,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+bland_altman,0,0.55502,0.00484,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+bland_altman,1,0.70604,0.01183,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+bland_altman,2,0.73829,0.01528,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+bland_altman,3,0.67095,0.01619,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+bland_altman,4,0.51667,0.00678,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,contaminated
+benchmark,0,0.42275,-0.00229,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+benchmark,1,0.33689,-0.0045,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+benchmark,2,0.34583,-0.00572,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+benchmark,3,0.38679,-0.00631,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+benchmark,4,0.40902,-0.0063,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+bland_altman,0,0.39595,-0.00339,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+bland_altman,1,0.32818,-0.00521,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+bland_altman,2,0.34234,-0.00644,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+bland_altman,3,0.39573,-0.00619,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+bland_altman,4,0.43909,-0.00389,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10,null
+benchmark,0,0.70299,0.0202,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+benchmark,1,0.77577,0.02778,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+benchmark,2,0.78209,0.02922,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+benchmark,3,0.67923,0.02559,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+benchmark,4,0.44498,0.00034,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+bland_altman,0,0.64829,0.01097,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+bland_altman,1,0.75746,0.02183,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+bland_altman,2,0.78187,0.02912,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+bland_altman,3,0.6934,0.02967,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+bland_altman,4,0.50403,0.01153,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,contaminated
+benchmark,0,0.46372,-0.00186,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+benchmark,1,0.32142,-0.00642,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+benchmark,2,0.29353,-0.01033,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+benchmark,3,0.3066,-0.0145,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+benchmark,4,0.32164,-0.01592,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+bland_altman,0,0.43081,-0.00336,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+bland_altman,1,0.30813,-0.00785,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+bland_altman,2,0.2968,-0.01079,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+bland_altman,3,0.31881,-0.01441,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+bland_altman,4,0.35236,-0.01263,4589,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20,null
+benchmark,0,0.93516,0.01193,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+benchmark,1,0.93345,0.01904,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+benchmark,2,0.86184,0.0175,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+benchmark,3,0.71314,0.01301,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+benchmark,4,0.47747,0.00167,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+bland_altman,0,0.92674,0.01026,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+bland_altman,1,0.92418,0.01745,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+bland_altman,2,0.85215,0.01638,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+bland_altman,3,0.71061,0.01279,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+bland_altman,4,0.50737,0.00628,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,contaminated
+benchmark,0,0.52379,0.00031,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+benchmark,1,0.5615,0.00067,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+benchmark,2,0.56108,0.00056,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+benchmark,3,0.49958,0.00017,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+benchmark,4,0.42484,-0.00253,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+bland_altman,0,0.51495,0.0002,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+bland_altman,1,0.55897,0.00054,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+bland_altman,2,0.55729,0.00039,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+bland_altman,3,0.50126,-0.0001,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+bland_altman,4,0.43832,-0.00185,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3,null
+benchmark,0,0.95411,0.02787,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+benchmark,1,0.97515,0.04627,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+benchmark,2,0.92797,0.04274,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+benchmark,3,0.78138,0.03361,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+benchmark,4,0.54189,0.01764,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+bland_altman,0,0.94484,0.02181,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+bland_altman,1,0.96841,0.03804,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+bland_altman,2,0.90859,0.03974,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+bland_altman,3,0.76327,0.03602,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+bland_altman,4,0.59537,0.03252,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,contaminated
+benchmark,0,0.47705,-0.00058,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+benchmark,1,0.4465,-0.0013,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+benchmark,2,0.46588,-0.00148,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+benchmark,3,0.41828,-0.00311,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+benchmark,4,0.38568,-0.00579,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+bland_altman,0,0.46316,-0.00088,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+bland_altman,1,0.44229,-0.00177,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+bland_altman,2,0.46588,-0.00204,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+bland_altman,3,0.42081,-0.00306,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+bland_altman,4,0.40126,-0.00451,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10,null
+benchmark,0,0.95705,0.04685,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+benchmark,1,0.97936,0.08308,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+benchmark,2,0.94693,0.07684,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+benchmark,3,0.75442,0.05156,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+benchmark,4,0.48842,0.02081,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+bland_altman,0,0.94653,0.03362,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+bland_altman,1,0.96925,0.06241,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+bland_altman,2,0.91702,0.06597,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+bland_altman,3,0.70725,0.06253,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+bland_altman,4,0.58611,0.0546,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,contaminated
+benchmark,0,0.27537,-0.00235,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+benchmark,1,0.38922,-0.00196,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+benchmark,2,0.47178,-0.00223,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+benchmark,3,0.42165,-0.00483,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+benchmark,4,0.29937,-0.01307,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+bland_altman,0,0.26063,-0.00301,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+bland_altman,1,0.37574,-0.00384,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+bland_altman,2,0.47051,-0.00206,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+bland_altman,3,0.43176,-0.00437,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+bland_altman,4,0.31874,-0.01116,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20,null
+benchmark,0,0.79916,0.00589,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+benchmark,1,0.62005,0.00749,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+benchmark,2,0.96869,0.00741,5622,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+benchmark,3,0.51699,0.00517,1501,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+bland_altman,0,0.78653,0.00471,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+bland_altman,1,0.61963,0.00692,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+bland_altman,2,0.93008,0.00771,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+bland_altman,3,1.0,0.00741,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+bland_altman,4,0.70358,0.00745,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,contaminated
+benchmark,0,0.27032,-0.00173,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+benchmark,1,0.39174,-0.00162,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+benchmark,2,0.95749,0.00281,5622,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+benchmark,3,0.47235,-0.00109,1501,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+bland_altman,0,0.26232,-0.00191,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+bland_altman,1,0.39048,-0.00181,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+bland_altman,2,0.89301,0.00203,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+bland_altman,3,1.0,0.00326,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+bland_altman,4,0.68211,0.00104,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3,null
+benchmark,0,0.88126,0.01483,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+benchmark,1,0.63395,0.01938,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+benchmark,2,0.97385,0.02175,5622,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+benchmark,3,0.61093,0.02364,1501,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+bland_altman,0,0.85684,0.01073,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+bland_altman,1,0.63269,0.01763,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+bland_altman,2,0.9524,0.02215,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+bland_altman,3,1.0,0.02118,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+bland_altman,4,0.76547,0.02894,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,contaminated
+benchmark,0,0.40421,-0.0014,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+benchmark,1,0.41575,-0.0024,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+benchmark,2,0.95411,0.00282,5622,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+benchmark,3,0.45969,-0.00214,1501,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+bland_altman,0,0.38905,-0.00181,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+bland_altman,1,0.41828,-0.00251,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+bland_altman,2,0.8829,0.00157,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+bland_altman,3,1.0,0.00344,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+bland_altman,4,0.67958,0.00084,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10,null
+benchmark,0,0.83874,0.02439,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+benchmark,1,0.55644,0.02624,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+benchmark,2,0.96709,0.04814,5622,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+benchmark,3,0.56629,0.02708,1501,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+bland_altman,0,0.78821,0.01482,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+bland_altman,1,0.56318,0.02116,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+bland_altman,2,0.92881,0.04932,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+bland_altman,3,1.0,0.04934,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+bland_altman,4,0.76295,0.04709,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,contaminated
+benchmark,0,0.32253,-0.00371,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+benchmark,1,0.36394,-0.00548,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+benchmark,2,0.94859,0.00527,5622,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+benchmark,3,0.37642,-0.01035,1501,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+bland_altman,0,0.30442,-0.00441,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+bland_altman,1,0.36689,-0.00597,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+bland_altman,2,0.85847,0.00303,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+bland_altman,3,1.0,0.00652,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+bland_altman,4,0.64084,-0.00242,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20,null
+benchmark,0,0.89684,0.00927,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+benchmark,1,0.94103,0.01376,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+benchmark,2,0.8909,0.01246,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+benchmark,3,0.71693,0.01253,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+benchmark,4,0.52674,0.0055,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+bland_altman,0,0.89179,0.00797,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+bland_altman,1,0.93808,0.01268,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+bland_altman,2,0.87742,0.01137,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+bland_altman,3,0.71609,0.0116,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+bland_altman,4,0.54905,0.00991,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,contaminated
+benchmark,0,0.48632,8e-05,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+benchmark,1,0.39806,-0.00059,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+benchmark,2,0.41575,-0.00108,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+benchmark,3,0.44103,-0.00119,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+benchmark,4,0.41474,-0.00267,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+bland_altman,0,0.47747,-4e-05,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+bland_altman,1,0.39511,-0.00066,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+bland_altman,2,0.40859,-0.00142,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+bland_altman,3,0.44693,-0.00126,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+bland_altman,4,0.42779,-0.00206,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3,null
+benchmark,0,0.91958,0.02284,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+benchmark,1,0.97894,0.03699,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+benchmark,2,0.94861,0.03844,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+benchmark,3,0.79612,0.03679,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+benchmark,4,0.58989,0.02327,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+bland_altman,0,0.91368,0.01799,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+bland_altman,1,0.97894,0.03171,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+bland_altman,2,0.92039,0.03239,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+bland_altman,3,0.7877,0.03741,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+bland_altman,4,0.63242,0.03882,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,contaminated
+benchmark,0,0.50821,-0.00019,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+benchmark,1,0.48905,0.00018,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+benchmark,2,0.39596,-0.00131,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+benchmark,3,0.37532,-0.00259,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+benchmark,4,0.40547,-0.00421,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+bland_altman,0,0.496,-0.00039,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+bland_altman,1,0.48441,-4e-05,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+bland_altman,2,0.39469,-0.00143,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+bland_altman,3,0.38206,-0.00272,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+bland_altman,4,0.41684,-0.00354,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10,null
+benchmark,0,0.90358,0.03725,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+benchmark,1,0.97599,0.06604,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+benchmark,2,0.96883,0.07271,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+benchmark,3,0.84246,0.06043,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+benchmark,4,0.55579,0.03096,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+bland_altman,0,0.896,0.02697,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+bland_altman,1,0.97346,0.05093,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+bland_altman,2,0.93597,0.05589,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+bland_altman,3,0.81592,0.06977,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+bland_altman,4,0.62526,0.06384,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,contaminated
+benchmark,0,0.264,-0.00276,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+benchmark,1,0.41912,-0.00264,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+benchmark,2,0.52991,-0.00156,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+benchmark,3,0.44777,-0.00372,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+benchmark,4,0.30526,-0.01125,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+bland_altman,0,0.25516,-0.00303,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+bland_altman,1,0.40438,-0.00326,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+bland_altman,2,0.52864,-0.00157,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+bland_altman,3,0.45746,-0.00411,2374,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+bland_altman,4,0.32042,-0.00996,2375,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20,null
+benchmark,0,0.8652,0.01143,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+benchmark,1,0.73186,0.00752,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+benchmark,2,0.75394,0.01008,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+benchmark,3,0.67784,0.00928,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+benchmark,4,0.55521,0.00476,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+bland_altman,0,0.84273,0.00515,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+bland_altman,1,0.72989,0.00837,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+bland_altman,2,0.76183,0.01347,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+bland_altman,3,0.67902,0.00978,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+bland_altman,4,0.57058,0.00631,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,contaminated
+benchmark,0,0.72448,0.00132,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+benchmark,1,0.65497,0.00151,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+benchmark,2,0.58517,0.00055,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+benchmark,3,0.40773,-0.00208,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+benchmark,4,0.42153,-0.00362,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+bland_altman,0,0.71502,0.00121,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+bland_altman,1,0.65142,0.00139,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+bland_altman,2,0.58675,0.00052,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+bland_altman,3,0.41049,-0.00238,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+bland_altman,4,0.43021,-0.00304,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3,null
+benchmark,0,0.99488,0.02074,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+benchmark,1,0.98147,0.02733,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+benchmark,2,0.94401,0.02993,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+benchmark,3,0.79101,0.01855,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+benchmark,4,0.5414,0.00804,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+bland_altman,0,0.9933,0.01892,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+bland_altman,1,0.97476,0.02613,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+bland_altman,2,0.93375,0.02843,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+bland_altman,3,0.78943,0.01991,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+bland_altman,4,0.56151,0.0112,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,contaminated
+benchmark,0,0.7773,0.00207,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+benchmark,1,0.73423,0.00278,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+benchmark,2,0.63368,0.00196,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+benchmark,3,0.46491,-0.00117,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+benchmark,4,0.40063,-0.00473,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+bland_altman,0,0.76744,0.00194,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+bland_altman,1,0.73147,0.00263,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+bland_altman,2,0.63407,0.00193,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+bland_altman,3,0.46727,-0.0015,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+bland_altman,4,0.41049,-0.00409,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10,null
+benchmark,0,0.99527,0.02643,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+benchmark,1,0.98344,0.03703,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+benchmark,2,0.94874,0.04056,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+benchmark,3,0.69795,0.02397,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+benchmark,4,0.4511,0.00848,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+bland_altman,0,0.98975,0.02361,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+bland_altman,1,0.97831,0.03422,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+bland_altman,2,0.93533,0.03678,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+bland_altman,3,0.67705,0.02531,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+bland_altman,4,0.49606,0.01654,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,contaminated
+benchmark,0,0.63106,0.00146,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+benchmark,1,0.53076,0.00155,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+benchmark,2,0.45308,0.00022,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+benchmark,3,0.36593,-0.00379,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+benchmark,4,0.31112,-0.01223,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+bland_altman,0,0.61017,0.00111,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+bland_altman,1,0.52445,0.00107,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+bland_altman,2,0.45623,-0.00011,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+bland_altman,3,0.36987,-0.00425,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+bland_altman,4,0.33123,-0.01061,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20,null
+benchmark,0,0.18329,-0.0033,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+benchmark,1,0.30126,-0.00318,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+benchmark,2,0.90238,0.00056,6771,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+benchmark,3,0.48984,0.00152,837,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+bland_altman,0,0.17225,-0.00364,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+bland_altman,1,0.30126,-0.0039,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+bland_altman,2,0.74014,0.00039,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+bland_altman,3,1.0,0.00069,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+bland_altman,4,0.84188,0.00197,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,contaminated
+benchmark,0,0.21324,-0.00271,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+benchmark,1,0.31151,-0.00352,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+benchmark,2,0.90179,0.00018,6771,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+benchmark,3,0.44205,-0.00184,837,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+bland_altman,0,0.20457,-0.00294,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+bland_altman,1,0.31151,-0.00395,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+bland_altman,2,0.73778,-0.00074,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+bland_altman,3,1.0,0.00076,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+bland_altman,4,0.82453,0.00052,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3,null
+benchmark,0,0.71186,0.00861,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+benchmark,1,0.48304,0.00554,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+benchmark,2,0.09969,0.00124,6771,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+benchmark,3,0.46356,-0.00215,837,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+bland_altman,0,0.68467,0.00434,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+bland_altman,1,0.4858,0.00329,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+bland_altman,2,0.27603,0.0083,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+bland_altman,3,0.0,-0.00041,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+bland_altman,4,0.16759,0.00125,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,contaminated
+benchmark,0,0.20102,-0.00431,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+benchmark,1,0.30481,-0.00828,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+benchmark,2,0.0929,-0.00139,6771,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+benchmark,3,0.4325,-0.00791,837,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+bland_altman,0,0.18841,-0.00515,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+bland_altman,1,0.30481,-0.00914,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+bland_altman,2,0.25473,-0.00232,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+bland_altman,3,0.0,-0.00058,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+bland_altman,4,0.14866,-0.00174,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10,null
+benchmark,0,0.73157,0.01252,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+benchmark,1,0.45978,0.01158,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+benchmark,2,0.09363,0.00115,6771,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+benchmark,3,0.46953,-0.00224,837,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+bland_altman,0,0.68388,0.00527,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+bland_altman,1,0.47121,0.00871,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+bland_altman,2,0.26972,0.01043,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+bland_altman,3,0.0,-0.00058,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+bland_altman,4,0.17153,0.0026,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,contaminated
+benchmark,0,0.4529,-0.00096,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+benchmark,1,0.46688,-0.00629,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+benchmark,2,0.07074,-0.00244,6771,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+benchmark,3,0.31063,-0.01999,837,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+bland_altman,0,0.42649,-0.00271,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+bland_altman,1,0.47476,-0.00714,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+bland_altman,2,0.20308,-0.00543,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+bland_altman,3,0.0,-0.00029,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+bland_altman,4,0.10686,-0.00478,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20,null
+benchmark,0,0.69649,0.00139,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+benchmark,1,0.74487,0.00281,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+benchmark,2,0.70978,0.00415,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+benchmark,3,0.5903,0.00419,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+benchmark,4,0.52208,0.00312,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+bland_altman,0,0.68112,0.00119,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+bland_altman,1,0.74487,0.00269,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+bland_altman,2,0.71057,0.00389,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+bland_altman,3,0.5903,0.00338,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+bland_altman,4,0.53667,0.00454,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,contaminated
+benchmark,0,0.53646,0.00014,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+benchmark,1,0.54535,0.00028,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+benchmark,2,0.53509,0.00034,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+benchmark,3,0.51301,-1e-05,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+benchmark,4,0.43178,-0.00388,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+bland_altman,0,0.52188,4e-05,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+bland_altman,1,0.54653,0.00021,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+bland_altman,2,0.53628,0.00022,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+bland_altman,3,0.5142,-0.00039,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+bland_altman,4,0.44282,-0.00322,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3,null
+benchmark,0,0.97477,0.01187,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+benchmark,1,0.9791,0.02169,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+benchmark,2,0.88249,0.02444,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+benchmark,3,0.66956,0.0191,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+benchmark,4,0.54495,0.01019,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+bland_altman,0,0.97162,0.01099,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+bland_altman,1,0.9724,0.02018,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+bland_altman,2,0.86475,0.02295,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+bland_altman,3,0.66956,0.01785,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+bland_altman,4,0.57256,0.01533,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,contaminated
+benchmark,0,0.58218,0.00056,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+benchmark,1,0.57098,0.00105,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+benchmark,2,0.54653,0.00099,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+benchmark,3,0.52957,0.00091,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+benchmark,4,0.39393,-0.00508,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+bland_altman,0,0.56366,0.00038,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+bland_altman,1,0.57177,0.0009,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+bland_altman,2,0.54968,0.00089,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+bland_altman,3,0.53352,0.00075,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+bland_altman,4,0.40457,-0.00451,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10,null
+benchmark,0,0.97872,0.01476,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+benchmark,1,0.96057,0.02778,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+benchmark,2,0.8336,0.03122,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+benchmark,3,0.64629,0.02557,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+benchmark,4,0.51538,0.01542,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+bland_altman,0,0.97044,0.01299,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+bland_altman,1,0.94401,0.02468,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+bland_altman,2,0.81191,0.02898,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+bland_altman,3,0.65181,0.02266,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+bland_altman,4,0.55639,0.02545,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,contaminated
+benchmark,0,0.47418,-3e-05,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+benchmark,1,0.45268,-0.00044,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+benchmark,2,0.38013,-0.0025,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+benchmark,3,0.35252,-0.0055,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+benchmark,4,0.2709,-0.01447,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+bland_altman,0,0.4458,-0.00044,2537,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+bland_altman,1,0.45465,-0.00071,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+bland_altman,2,0.38644,-0.00276,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+bland_altman,3,0.35883,-0.00571,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
+bland_altman,4,0.2847,-0.0133,2536,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20,null
