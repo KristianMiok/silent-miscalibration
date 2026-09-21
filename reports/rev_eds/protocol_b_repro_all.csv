@@ -1,0 +1,385 @@
+algorithm,n_saved,n_new,n_common,max_abs_diff,entity,entity_dir,track,level
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,0
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,0
+random_forest,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,0
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,0
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,10
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,10
+random_forest,14562,14562,14562,2.220446049250313e-16,Astacus astacus,Astacus_astacus,combined,10
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,10
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,20
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,20
+random_forest,14562,14562,14562,2.220446049250313e-16,Astacus astacus,Astacus_astacus,combined,20
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,20
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,3
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,3
+random_forest,14562,14562,14562,2.220446049250313e-16,Astacus astacus,Astacus_astacus,combined,3
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,combined,3
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,0
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,0
+random_forest,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,0
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,0
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,10
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,10
+random_forest,14562,14562,14562,2.220446049250313e-16,Astacus astacus,Astacus_astacus,local_only,10
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,10
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,20
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,20
+random_forest,14562,14562,14562,1.1102230246251563e-16,Astacus astacus,Astacus_astacus,local_only,20
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,20
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,3
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,3
+random_forest,14562,14562,14562,1.1102230246251563e-16,Astacus astacus,Astacus_astacus,local_only,3
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,local_only,3
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,0
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,0
+random_forest,14562,14562,14562,1.1102230246251563e-16,Astacus astacus,Astacus_astacus,upstream_only,0
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,0
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,10
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,10
+random_forest,14562,14562,14562,2.220446049250313e-16,Astacus astacus,Astacus_astacus,upstream_only,10
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,10
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,20
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,20
+random_forest,14562,14562,14562,2.220446049250313e-16,Astacus astacus,Astacus_astacus,upstream_only,20
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,20
+glm,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,3
+gam,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,3
+random_forest,14562,14562,14562,1.1102230246251563e-16,Astacus astacus,Astacus_astacus,upstream_only,3
+xgboost,14562,14562,14562,0.0,Astacus astacus,Astacus_astacus,upstream_only,3
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,0
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,0
+random_forest,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,0
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,0
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10
+random_forest,12681,12681,12681,1.1102230246251563e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,10
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20
+random_forest,12681,12681,12681,2.220446049250313e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,20
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3
+random_forest,12681,12681,12681,2.220446049250313e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,combined,3
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,0
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,0
+random_forest,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,0
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,0
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10
+random_forest,12681,12681,12681,2.220446049250313e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,10
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20
+random_forest,12681,12681,12681,2.220446049250313e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,20
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3
+random_forest,12681,12681,12681,1.1102230246251563e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,local_only,3
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,0
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,0
+random_forest,12681,12681,12681,1.1102230246251563e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,0
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,0
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10
+random_forest,12681,12681,12681,1.1102230246251563e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,10
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20
+random_forest,12681,12681,12681,2.220446049250313e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,20
+glm,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3
+gam,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3
+random_forest,12681,12681,12681,1.1102230246251563e-16,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3
+xgboost,12681,12681,12681,0.0,Austropotamobius fulcisianus (pooled),Austropotamobius_fulcisianus_pooled,upstream_only,3
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,0
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,0
+random_forest,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,0
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,0
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10
+random_forest,11872,11872,11872,1.1102230246251563e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,10
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20
+random_forest,11872,11872,11872,2.220446049250313e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,20
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3
+random_forest,11872,11872,11872,1.1102230246251563e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,combined,3
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,0
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,0
+random_forest,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,0
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,0
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10
+random_forest,11872,11872,11872,1.1102230246251563e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,10
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20
+random_forest,11872,11872,11872,2.220446049250313e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,20
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3
+random_forest,11872,11872,11872,2.220446049250313e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,local_only,3
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,0
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,0
+random_forest,11872,11872,11872,1.1102230246251563e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,0
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,0
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10
+random_forest,11872,11872,11872,1.6653345369377348e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,10
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20
+random_forest,11872,11872,11872,2.220446049250313e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,20
+glm,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3
+gam,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3
+random_forest,11872,11872,11872,2.220446049250313e-16,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3
+xgboost,11872,11872,11872,0.0,Austropotamobius torrentium (pooled),Austropotamobius_torrentium_pooled,upstream_only,3
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,0
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,0
+random_forest,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,0
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,0
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10
+random_forest,20052,20052,20052,2.220446049250313e-16,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,10
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20
+random_forest,20052,20052,20052,2.220446049250313e-16,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,20
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3
+random_forest,20052,20052,20052,1.1102230246251563e-16,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,combined,3
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,0
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,0
+random_forest,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,0
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,0
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10
+random_forest,20052,20052,20052,2.220446049250313e-16,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,10
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20
+random_forest,20052,20052,20052,2.220446049250313e-16,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,20
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3
+random_forest,20052,20052,20052,2.220446049250313e-16,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,local_only,3
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,0
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,0
+random_forest,20052,20052,20052,1.1102230246251563e-16,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,0
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,0
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10
+random_forest,20052,20052,20052,3.3306690738754696e-16,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,10
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20
+random_forest,20052,20052,20052,2.220446049250313e-16,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,20
+glm,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3
+gam,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3
+random_forest,20052,20052,20052,1.1102230246251563e-16,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3
+xgboost,20052,20052,20052,0.0,Faxonius limosus (alien),Faxonius_limosus_alien,upstream_only,3
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,0
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,0
+random_forest,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,0
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,0
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10
+random_forest,37449,37449,37449,2.220446049250313e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,10
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20
+random_forest,37449,37449,37449,2.220446049250313e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,20
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3
+random_forest,37449,37449,37449,1.1102230246251563e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,combined,3
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,0
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,0
+random_forest,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,0
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,0
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10
+random_forest,37449,37449,37449,2.220446049250313e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,10
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20
+random_forest,37449,37449,37449,3.3306690738754696e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,20
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3
+random_forest,37449,37449,37449,2.220446049250313e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,local_only,3
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,0
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,0
+random_forest,37449,37449,37449,1.1102230246251563e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,0
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,0
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10
+random_forest,37449,37449,37449,1.1102230246251563e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,10
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20
+random_forest,37449,37449,37449,2.220446049250313e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,20
+glm,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3
+gam,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3
+random_forest,37449,37449,37449,1.1102230246251563e-16,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3
+xgboost,37449,37449,37449,0.0,Pacifastacus leniusculus (alien),Pacifastacus_leniusculus_alien,upstream_only,3
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,0
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,0
+random_forest,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,0
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,0
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10
+random_forest,22945,22945,22945,2.220446049250313e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,10
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20
+random_forest,22945,22945,22945,2.220446049250313e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,20
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3
+random_forest,22945,22945,22945,1.1102230246251563e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,combined,3
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,0
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,0
+random_forest,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,0
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,0
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10
+random_forest,22945,22945,22945,2.220446049250313e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,10
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20
+random_forest,22945,22945,22945,2.220446049250313e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,20
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3
+random_forest,22945,22945,22945,2.220446049250313e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,local_only,3
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,0
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,0
+random_forest,22945,22945,22945,1.1102230246251563e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,0
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,0
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10
+random_forest,22945,22945,22945,2.220446049250313e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,10
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20
+random_forest,22945,22945,22945,1.1102230246251563e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,20
+glm,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3
+gam,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3
+random_forest,22945,22945,22945,1.1102230246251563e-16,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3
+xgboost,22945,22945,22945,0.0,Pontastacus leptodactylus (pooled),Pontastacus_leptodactylus_pooled,upstream_only,3
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,0
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,0
+random_forest,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,0
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,0
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10
+random_forest,48267,48267,48267,2.220446049250313e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,10
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20
+random_forest,48267,48267,48267,3.3306690738754696e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,20
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3
+random_forest,48267,48267,48267,2.220446049250313e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,combined,3
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,0
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,0
+random_forest,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,0
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,0
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10
+random_forest,48267,48267,48267,2.220446049250313e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,10
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20
+random_forest,48267,48267,48267,2.220446049250313e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,20
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3
+random_forest,48267,48267,48267,2.220446049250313e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,local_only,3
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,0
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,0
+random_forest,48267,48267,48267,1.1102230246251563e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,0
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,0
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10
+random_forest,48267,48267,48267,1.1102230246251563e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,10
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20
+random_forest,48267,48267,48267,2.220446049250313e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,20
+glm,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3
+gam,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3
+random_forest,48267,48267,48267,1.1102230246251563e-16,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3
+xgboost,48267,48267,48267,0.0,Procambarus clarkii (alien),Procambarus_clarkii_alien,upstream_only,3
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,0
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,0
+random_forest,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,0
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,0
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10
+random_forest,19320,19320,19320,1.1102230246251563e-16,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,10
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,20
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3
+random_forest,19320,19320,19320,1.1102230246251563e-16,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,combined,3
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,0
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,0
+random_forest,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,0
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,0
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,10
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,20
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,local_only,3
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,0
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,0
+random_forest,19320,19320,19320,1.1102230246251563e-16,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,0
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,0
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,10
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,20
+glm,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3
+gam,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3
+random_forest,19320,19320,19320,2.220446049250313e-16,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3
+xgboost,19320,19320,19320,0.0,Procambarus clarkii (native),Procambarus_clarkii_native,upstream_only,3

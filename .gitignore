@@ -64,3 +64,7 @@ manuscript_*.docx
 cover_letter*.docx
 
 data/replicate_surfaces_protocol_b/
+
+# EDS revision intermediates: record-level sub-catchment IDs of occurrence
+# records (World of Crayfish data policy), kept local; aggregates go to reports/
+data/rev_eds/
