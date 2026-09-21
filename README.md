@@ -1,4 +1,4 @@
-# trustworthy-sdm
+# silent-miscalibration
 
 Calibrated uncertainty for species distribution models under occurrence-data contamination.
 
