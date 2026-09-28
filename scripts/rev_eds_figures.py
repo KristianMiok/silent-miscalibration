@@ -203,12 +203,20 @@ def fig4():
           f"range {corr['width_inflation_factor'].min():.2f}-{w.max():.2f}")
 
 
+def band_legend(target, **kw):
+    h = [Line2D([], [], marker="o", ls="", color="0.35", ms=4, label="contaminated"),
+         Line2D([], [], marker="s", ls="", mfc="white", mec="0.35", ms=4, label="null")]
+    h += [Line2D([], [], color=c, lw=2, label=f"L{l}") for l, c in zip(LEVELS, LEVEL_COLS)]
+    return target.legend(handles=h, frameon=False, fontsize=6, **kw)
+
+
 def fig5b():
     w = pd.read_csv(R / "worked_case_null_bands.csv").rename(columns={
         "sub_mean": "c", "sub_lo": "c_lo", "sub_hi": "c_hi", "null_mean": "z", "null_lo": "z_lo",
         "null_hi": "z_hi", "n_subc": "n"})
     fig, ax = plt.subplots(figsize=(3.6, 2.8))
-    band_plot(ax, w, "upper right")
+    band_plot(ax, w, None)
+    band_legend(ax, loc="lower left")
     ax.set_ylabel("divergence from the benchmark")
     ax.set_title("(b)", loc="left")
     fig.tight_layout()
@@ -223,13 +231,13 @@ def fig6():
     o = pd.read_csv(p).rename(columns={
         "cont_mean": "c", "cont_lo": "c_lo", "cont_hi": "c_hi", "null_mean": "z", "null_lo": "z_lo",
         "null_hi": "z_hi"})
-    fig, axes = plt.subplots(1, 2, figsize=(6.7, 2.9), sharey=True)
-    for ax, (dom, title), loc in zip(axes, [("full", "(a) all records"),
-                                           ("held_out", "(b) records never used in a fit")], ("best", None)):
-        band_plot(ax, o[o["domain"] == dom], loc)
+    fig, axes = plt.subplots(1, 2, figsize=(6.7, 3.0), sharey=True)
+    for ax, (dom, title) in zip(axes, [("full", "(a) all records"), ("held_out", "(b) records never used in a fit")]):
+        band_plot(ax, o[o["domain"] == dom], None)
         ax.set_title(title, loc="left")
     axes[0].set_ylabel("divergence from the benchmark")
-    fig.tight_layout()
+    band_legend(fig, loc="lower center", ncol=5, bbox_to_anchor=(0.5, 0.0))
+    fig.tight_layout(rect=(0, 0.07, 1, 1))
     save(fig, "fig6_odonata_null")
 
 
@@ -271,8 +279,8 @@ def figS():
           Line2D([], [], color="0.2", lw=0.8, ls="--", label="nominal 0.95"),
           Line2D([], [], color="0.2", lw=0.6, label="0.90"),
           Line2D([], [], color="0.3", lw=0.7, ls=":", label="gate: AUC 0.70")]
-    fig.legend(handles=h, loc="lower center", ncol=4, frameon=False, bbox_to_anchor=(0.5, -0.12))
-    fig.tight_layout(rect=(0, 0.15, 1, 1))
+    fig.legend(handles=h, loc="lower center", ncol=4, frameon=False, bbox_to_anchor=(0.5, 0.0))
+    fig.tight_layout(rect=(0, 0.19, 1, 1))
     save(fig, "figS_cv_vs_coverage")
     ca = a[a["competent"]]
     for proto, d, auc, mis in (("Protocol A (competent, null-adjusted)", ca, "auc_cont_oos", ca["adj"]),
