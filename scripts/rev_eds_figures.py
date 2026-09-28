@@ -57,7 +57,7 @@ plt.rcParams.update({"font.size": 8, "axes.titlesize": 8, "axes.labelsize": 8, "
 
 def save(fig, name):
     FIG.mkdir(parents=True, exist_ok=True)
-    fig.savefig(FIG / f"{name}.pdf", bbox_inches="tight")
+    fig.savefig(FIG / f"{name}.pdf", bbox_inches="tight", metadata={"CreationDate": None})  # byte-stable
     fig.savefig(FIG / f"{name}.png", dpi=300, bbox_inches="tight")
     plt.close(fig)
     print(f"wrote figures/rev_eds/{name}.pdf and .png")
