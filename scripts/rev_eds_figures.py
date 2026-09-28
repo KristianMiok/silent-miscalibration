@@ -17,6 +17,9 @@ fig6_odonata_null      Odonata replicate: contaminated and null divergence by ba
 figS_cv_vs_coverage    cross-validated AUC of the contaminated model against coverage,
                        Protocol A and Protocol B (calibrated); gate 0.70, nominal 0.95,
                        miscoverage threshold 0.90, silent region shaded
+figS_protocol_a_null   Protocol A: coverage after contamination against null-refit coverage
+                       (120 competent cells), null-adjusted threshold shaded; in
+                       figS_cv_vs_coverage, Protocol A points above it are hollow
 Outputs: figures/rev_eds/<name>.pdf and .png (300 dpi).
 """
 from pathlib import Path
@@ -233,17 +236,23 @@ def fig6():
 def figS():
     a = pd.read_csv(R / "item1_protocol_a_join.csv")
     a["competent"] = a["competent"].astype(bool)
+    pn = pd.read_csv(R / "protocol_a_null_panel.csv")[["entity_dir", "algorithm", "track", "level", "threshold"]]
+    a = a.merge(pn, on=["entity_dir", "algorithm", "track", "level"], how="left")
+    a["adj"] = a["coverage_uncorrected"] < a["threshold"]
     bo = pd.read_csv(R / "protocol_b_platt_oos.csv")
     bo = bo[(bo["method"] == "platt") & (bo["level"] > 0)]
     bj = panel_platt().merge(bo[["entity_dir", "track", "level", "auc"]], on=["entity_dir", "track", "level"])
     fig, axes = plt.subplots(1, 2, figsize=(6.7, 3.0), sharey=True)
     for lvl, col in zip(LEVELS, LEVEL_COLS):
         c = a[a["competent"] & (a["level"] == lvl)]
-        axes[0].scatter(c["auc_cont_oos"], c["coverage_uncorrected"], s=10, color=col, zorder=3)
+        f, o = c[c["adj"]], c[~c["adj"]]
+        axes[0].scatter(f["auc_cont_oos"], f["coverage_uncorrected"], s=10, color=col, zorder=3)
+        axes[0].scatter(o["auc_cont_oos"], o["coverage_uncorrected"], s=10, facecolors="white", edgecolors=col,
+                        linewidths=0.8, zorder=3)
         d = bj[bj["level"] == lvl]
         axes[1].scatter(d["auc"], d["coverage"], s=12, color=col, zorder=3)
-    x = a[~a["competent"]]
-    axes[0].scatter(x["auc_cont_oos"], x["coverage_uncorrected"], s=12, marker="x", color="0.5", zorder=3)
+    ex = a[~a["competent"]]
+    axes[0].scatter(ex["auc_cont_oos"], ex["coverage_uncorrected"], s=12, marker="x", color="0.5", zorder=3)
     for ax, title in zip(axes, ["(a) Protocol A, 30-replicate ensembles", "(b) Protocol B, calibrated consensus"]):
         ax.set_ylim(0.35, 1.03)
         x0, x1 = ax.get_xlim()
@@ -256,23 +265,44 @@ def figS():
         ax.set_xlabel("cross-validated AUC of the contaminated model")
     axes[0].set_ylabel("coverage of the clean benchmark")
     h = [Line2D([], [], marker="o", ls="", color=c, ms=4, label=f"L{l}") for l, c in zip(LEVELS, LEVEL_COLS)]
-    h += [Line2D([], [], marker="x", ls="", color="0.5", ms=4, label="excluded (clean AUC < 0.70)"),
-          Patch(facecolor="0.9", label="silent: passes the gate, coverage < 0.90"),
+    h += [Line2D([], [], marker="o", ls="", mfc="white", mec="0.3", ms=4, label="(a) above its null-adjusted threshold"),
+          Line2D([], [], marker="x", ls="", color="0.5", ms=4, label="excluded (clean AUC < 0.70)"),
+          Patch(facecolor="0.9", label="passes the gate, coverage < 0.90"),
           Line2D([], [], color="0.2", lw=0.8, ls="--", label="nominal 0.95"),
-          Line2D([], [], color="0.2", lw=0.6, label="miscoverage threshold 0.90"),
+          Line2D([], [], color="0.2", lw=0.6, label="0.90"),
           Line2D([], [], color="0.3", lw=0.7, ls=":", label="gate: AUC 0.70")]
-    fig.legend(handles=h, loc="lower center", ncol=4, frameon=False, bbox_to_anchor=(0.5, -0.1))
-    fig.tight_layout(rect=(0, 0.12, 1, 1))
+    fig.legend(handles=h, loc="lower center", ncol=4, frameon=False, bbox_to_anchor=(0.5, -0.12))
+    fig.tight_layout(rect=(0, 0.15, 1, 1))
     save(fig, "figS_cv_vs_coverage")
-    for proto, d, auc, cov in (("Protocol A (competent)", a[a["competent"]], "auc_cont_oos", "coverage_uncorrected"),
-                               ("Protocol B (platt)", bj, "auc", "coverage")):
-        s = [f"{int(((d['level'] == l) & (d[auc] >= GATE) & (d[cov] < THRESH)).sum())}/"
-             f"{int(((d['level'] == l) & (d[cov] < THRESH)).sum())}" for l in LEVELS]
+    ca = a[a["competent"]]
+    for proto, d, auc, mis in (("Protocol A (competent, null-adjusted)", ca, "auc_cont_oos", ca["adj"]),
+                               ("Protocol B (platt, 0.90)", bj, "auc", bj["coverage"] < THRESH)):
+        s = [f"{int(((d['level'] == l) & (d[auc] >= GATE) & mis).sum())}/{int(((d['level'] == l) & mis).sum())}"
+             for l in LEVELS]
         print(f"figS {proto}: silent/miscovered L3/L10/L20 = {' '.join(s)}")
 
 
+def figS_protocol_a_null():
+    p = pd.read_csv(R / "protocol_a_null_panel.csv")
+    fig, ax = plt.subplots(figsize=(3.4, 3.1))
+    xs = np.linspace(0.45, 1.0, 200)
+    ax.fill_between(xs, 0.35, np.minimum(THRESH, NOMINAL * xs), color="0.9", lw=0, zorder=0,
+                    label="below min(0.90, 0.95 \u00d7 null coverage)")
+    ax.plot([0.45, 1.0], [0.45, 1.0], color="0.4", lw=0.7, ls=":", label="no loss relative to the null")
+    for lvl, col in zip(LEVELS, LEVEL_COLS):
+        d = p[p["level"] == lvl]
+        ax.scatter(d["null_coverage"], d["coverage_uncorrected"], s=12, color=col, zorder=3, label=f"L{lvl}")
+    ax.set_xlim(0.45, 1.0)
+    ax.set_ylim(0.35, 1.0)
+    ax.set_xlabel("coverage of the null refits (no contamination)")
+    ax.set_ylabel("coverage after contamination")
+    ax.legend(frameon=False, fontsize=6, loc="upper left")
+    fig.tight_layout()
+    save(fig, "figS_protocol_a_null")
+
+
 def main():
-    for f in (fig1, fig2, fig3, fig4, fig5b, fig6, figS):
+    for f in (fig1, fig2, fig3, fig4, fig5b, fig6, figS, figS_protocol_a_null):
         f()
 
 
