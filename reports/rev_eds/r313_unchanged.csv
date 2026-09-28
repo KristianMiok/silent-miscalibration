@@ -1,0 +1,17 @@
+entity_dir,n_unchanged,min_coverage,mean_coverage,first_order_enrichment,auc_low_vs_high_position,separability_auc_local,n_high,method
+Astacus_astacus,3,0.4953,0.7834,0.3523,0.1088,0.8246,2058,uncalibrated
+Austropotamobius_fulcisianus_pooled,9,0.9706,0.9855,0.0553,0.3486,0.7891,744,uncalibrated
+Austropotamobius_torrentium_pooled,4,0.52,0.89,0.3716,0.1436,0.6183,1032,uncalibrated
+Faxonius_limosus_alien,3,0.514,0.8316,0.3557,0.1582,0.9157,3811,uncalibrated
+Pacifastacus_leniusculus_alien,2,0.6119,0.857,0.3814,0.1259,0.8864,4171,uncalibrated
+Pontastacus_leptodactylus_pooled,6,0.5798,0.9224,0.1362,0.3289,0.7128,1496,uncalibrated
+Procambarus_clarkii_alien,7,0.9509,0.9812,0.0807,0.2701,0.7351,7711,uncalibrated
+Procambarus_clarkii_native,9,0.991,0.9956,0.0338,0.3746,0.504,1915,uncalibrated
+Astacus_astacus,3,0.4819,0.7691,0.3523,0.1088,0.8246,2058,platt
+Austropotamobius_fulcisianus_pooled,9,0.9685,0.9855,0.0553,0.3486,0.7891,744,platt
+Austropotamobius_torrentium_pooled,4,0.5174,0.8764,0.3716,0.1436,0.6183,1032,platt
+Faxonius_limosus_alien,4,0.5168,0.8806,0.3557,0.1582,0.9157,3811,platt
+Pacifastacus_leniusculus_alien,4,0.6111,0.8997,0.3814,0.1259,0.8864,4171,platt
+Pontastacus_leptodactylus_pooled,6,0.5761,0.9212,0.1362,0.3289,0.7128,1496,platt
+Procambarus_clarkii_alien,7,0.9509,0.9816,0.0807,0.2701,0.7351,7711,platt
+Procambarus_clarkii_native,9,0.9881,0.9955,0.0338,0.3746,0.504,1915,platt
