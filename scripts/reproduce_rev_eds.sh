@@ -29,6 +29,7 @@ STEPS=(
   rev_eds_odonata_null
   rev_eds_worked_case_null_coverage
   rev_eds_protocol_a_null_panel
+  rev_eds_protocol_a_local_agreement
   rev_eds_figures
 )
 fail=0

@@ -109,6 +109,7 @@ def main():
                    & (res["max_abs_diff"] < TOL))
     res["upstream"] = head
     OUT.parent.mkdir(parents=True, exist_ok=True)
+    res = res.drop(columns=["cell_fit_seconds"], errors="ignore").round({"max_abs_diff": 12, "mean_abs_diff": 12})  # byte-stable CSV: no timing, no sub-1e-12 noise
     res.to_csv(OUT, index=False)
     print(res.drop(columns=["entity", "track", "upstream"]).to_string(index=False))
     ok = bool(res["pass"].all())
