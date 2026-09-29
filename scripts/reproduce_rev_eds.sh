@@ -32,7 +32,9 @@ STEPS=(
   rev_eds_protocol_a_local_agreement
   rev_eds_four_unit_sensitivity
   rev_eds_letter_values
+  rev_eds_predictors_s3
   rev_eds_figures
+  rev_eds_fig5_full
 )
 fail=0
 echo "reproduce_rev_eds at $(git rev-parse --short HEAD), $("$PY" --version 2>&1); full log: $LOG"
