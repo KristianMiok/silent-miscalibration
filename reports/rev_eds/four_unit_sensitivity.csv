@@ -1,0 +1,25 @@
+subset,track,level,n_units,b_mean_coverage,b_miscovered,b_silent,b_excess_divergence,a_configs,a_silent_adj,a_miscovered_adj
+all eight,local_only,3,8,0.9838,0,0,0.0094,16,4,4
+all eight,local_only,10,8,0.9326,1,1,0.0244,16,11,11
+all eight,local_only,20,8,0.8782,4,4,0.0396,16,12,12
+all eight,upstream_only,3,8,0.9944,0,0,0.0035,8,3,3
+all eight,upstream_only,10,8,0.9272,1,1,0.0108,8,8,8
+all eight,upstream_only,20,8,0.7078,5,3,0.0185,8,4,8
+all eight,combined,3,8,0.9849,0,0,0.0087,16,4,4
+all eight,combined,10,8,0.9333,1,1,0.0239,16,11,11
+all eight,combined,20,8,0.8811,4,4,0.0392,16,12,12
+all eight,local+combined,3,8,0.9844,0,0,0.009,32,8,8
+all eight,local+combined,10,8,0.9329,2,2,0.0241,32,22,22
+all eight,local+combined,20,8,0.8796,8,8,0.0394,32,24,24
+four retained,local_only,3,4,0.9728,0,0,0.0145,8,4,4
+four retained,local_only,10,4,0.885,1,1,0.0366,8,8,8
+four retained,local_only,20,4,0.7985,4,4,0.0579,8,8,8
+four retained,upstream_only,3,4,0.9919,0,0,0.0054,8,3,3
+four retained,upstream_only,10,4,0.8646,1,1,0.0153,8,8,8
+four retained,upstream_only,20,4,0.5318,4,2,0.0255,8,4,8
+four retained,combined,3,4,0.9749,0,0,0.0142,8,4,4
+four retained,combined,10,4,0.8859,1,1,0.0357,8,8,8
+four retained,combined,20,4,0.8029,4,4,0.057,8,8,8
+four retained,local+combined,3,4,0.9738,0,0,0.0144,16,8,8
+four retained,local+combined,10,4,0.8855,2,2,0.0362,16,16,16
+four retained,local+combined,20,4,0.8007,8,8,0.0575,16,16,16
